@@ -1,0 +1,756 @@
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml"
+
+#EXTINF:-1 tvg-name="Open CZ/SK IPTV" tvg-id="OpenCzSkIPTV.free",Open CZ/SK IPTV
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+# Zdroje:
+# https://sktv.plainrock127.xyz
+# https://santovic-test.6f.sk/sktv-forwarders/
+# https://github.com/santomet/sktv-forwarders
+# https://github.com/iptv-org/iptv
+# https://github.com/iptv-org/iptv/issues/17640#issuecomment-2383722484
+# https://github.com/Free-TV/IPTV
+# https://github.com/iptv-restream/IPTV
+# https://github.com/shahnewazaopu/iptv-dish-channel-free
+# https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml
+# https://www.parabola.cz/forum/topic-101821/
+
+# ČT
+#EXTINF:-1 tvg-name="ČT 1 FHD" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Česká Televize",ČT 1 FHD
+https://sktv.plainrock127.xyz/get.php?x=CT1
+#EXTINF:-1 tvg-name="ČT 2 FHD" tvg-logo="https://i.imgur.com/HpnGC6A.png" tvg-id="CT2.cz" group-title="Česká Televize",ČT 2 FHD
+https://sktv.plainrock127.xyz/get.php?x=CT2
+#EXTINF:-1 tvg-name="ČT 24 FHD" tvg-logo="https://i.imgur.com/pUMRFs1.png" tvg-id="CT24.cz" group-title="Česká Televize",ČT 24 FHD
+https://sktv.plainrock127.xyz/get.php?x=CT24
+#EXTINF:-1 tvg-name="ČT Sport FHD" tvg-logo="https://i.imgur.com/I2dltZW.png" tvg-id="CTSport.cz" group-title="Česká Televize",ČT Sport FHD
+https://sktv.plainrock127.xyz/get.php?x=CTsport
+#EXTINF:-1 tvg-name="ČT:D FHD" tvg-logo="https://i.imgur.com/Pa5rLpA.png" tvg-id="CTD.cz" group-title="Česká Televize",ČT:D FHD
+https://sktv.plainrock127.xyz/get.php?x=CT_D
+#EXTINF:-1 tvg-name="ČT art FHD" tvg-logo="https://i.imgur.com/u8mfETB.png" tvg-id="CTart.cz" group-title="Česká Televize",ČT art FHD
+https://sktv.plainrock127.xyz/get.php?x=CTart
+#EXTINF:-1 tvg-name="ČT Sport Plus FHD" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="CTSportPlus.cz" group-title="Česká Televize",ČT Sport Plus FHD
+https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
+
+# Nova
+#EXTINF:-1 tvg-name="Nova HD" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="Nova",Nova HD
+https://sktv.plainrock127.xyz/get.php?x=Nova
+#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" tvg-id="NovaCinema.cz" group-title="Nova",Nova Cinema HD
+https://sktv.plainrock127.xyz/get.php?x=NovaCinema
+#EXTINF:-1 tvg-name="Nova Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" tvg-id="NovaAction.cz" group-title="Nova",Nova Action HD
+https://sktv.plainrock127.xyz/get.php?x=NovaAction
+#EXTINF:-1 tvg-name="Nova Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" tvg-id="NovaFun.cz" group-title="Nova",Nova Fun HD
+https://sktv.plainrock127.xyz/get.php?x=NovaFun
+#EXTINF:-1 tvg-name="Nova Lady HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/640px-Logo_Nova_Lady_2021.png" tvg-id="NovaLady.cz" group-title="Nova",Nova Lady HD
+https://sktv.plainrock127.xyz/get.php?x=NovaLady
+#EXTINF:-1 tvg-name="Nova Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" tvg-id="NovaGold.cz" group-title="Nova",Nova Gold HD
+https://sktv.plainrock127.xyz/get.php?x=NovaGold
+#EXTINF:-1 tvg-name="TN Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo-tn-cz.png" tvg-id="tvnova.cz" group-title="Nova",TN Live FHD
+https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
+
+# Prima
+#EXTINF:-1 tvg-name="Prima HD" tvg-logo="https://i.imgur.com/0aHT2Nj.png" tvg-id="Prima.cz" group-title="Prima",Prima HD
+https://sktv.plainrock127.xyz/get.php?x=Prima
+#EXTINF:-1 tvg-name="Prima COOL HD" tvg-logo="https://i.imgur.com/JMHWmcJ.png" tvg-id="PrimaCool.cz" group-title="Prima",Prima COOL HD
+https://sktv.plainrock127.xyz/get.php?x=PrimaCool
+#EXTINF:-1 tvg-name="Prima MAX HD" tvg-logo="https://i.imgur.com/QaEakvm.png" tvg-id="PrimaMax.cz" group-title="Prima",Prima MAX HD
+https://sktv.plainrock127.xyz/get.php?x=PrimaMax
+#EXTINF:-1 tvg-name="Prima ZOOM HD" tvg-logo="https://i.imgur.com/zuzBucZ.png" tvg-id="PrimaZoom.cz" group-title="Prima",Prima ZOOM HD
+https://sktv.plainrock127.xyz/get.php?x=PrimaZoom
+#EXTINF:-1 tvg-name="Prima Love HD" tvg-logo="https://i.imgur.com/TOCZc3Y.png" tvg-id="PrimaLove.cz" group-title="Prima",Prima Love HD
+https://sktv.plainrock127.xyz/get.php?x=PrimaLove
+# EXTINF:-1 tvg-name="Prima Krimi HD" tvg-logo="https://i.imgur.com/Dn2YxrA.png" tvg-id="PrimaKrimi.cz" group-title="Prima",Prima Krimi HD
+# https://sktv.plainrock127.xyz/get.php?x=PrimaKrimi
+# EXTINF:-1 tvg-name="Prima STAR HD" tvg-logo="https://i.imgur.com/tQGwvNs.png" tvg-id="PrimaStar.cz" group-title="Prima",Prima STAR HD
+# https://sktv.plainrock127.xyz/get.php?x=PrimaStar
+# EXTINF:-1 tvg-name="Prima Show HD" tvg-logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" group-title="Prima",Prima Show HD
+# https://sktv.plainrock127.xyz/get.php?x=PrimaShow
+# EXTINF:-1 tvg-name="CNN Prima News HD" tvg-logo="https://i.imgur.com/Il7t0bU.png" tvg-id="CNNPrimaNews.cz" group-title="Prima",CNN Prima News HD
+# https://sktv.plainrock127.xyz/get.php?x=PrimaNews
+
+# Barrandov
+# EXTINF:-1 tvg-name="TV Barrandov" logo="" tvg-id="BarrandovTV.cz" group-title="Barrandov",TV Barrandov
+# EXTINF:-1 tvg-name="Barrandov Kino" logo="" tvg-id="BarrandovKino.cz" group-title="Barrandov",Barrandov Kino
+# EXTINF:-1 tvg-name="Barrandov Krimi" logo="" tvg-id="BarrandovKrimi.cz" group-title="Barrandov",Barrandov Krimi
+
+# STVR
+#EXTINF:-1 tvg-name="Jednotka FHD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="STVR",Jednotka FHD
+https://sktv.plainrock127.xyz/get.php?x=STV1
+#EXTINF:-1 tvg-name="Dvojka FHD" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="STVR",Dvojka FHD
+https://sktv.plainrock127.xyz/get.php?x=STV2
+#EXTINF:-1 tvg-name="RTVS 24 FHD" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="STVR",RTVS 24 FHD
+https://sktv.plainrock127.xyz/get.php?x=STV24
+#EXTINF:-1 tvg-name="RTVS Šport FHD" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" group-title="STVR",RTVS Šport FHD
+https://sktv.plainrock127.xyz/get.php?x=SPORT
+#EXTINF:-1 tvg-name="RTVS O FHD" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="STVR",RTVS O FHD
+https://sktv.plainrock127.xyz/get.php?x=STV-O
+#EXTINF:-1 tvg-name="STVR FHD" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="STVR",STVR FHD
+https://sktv.plainrock127.xyz/get.php?x=RTVS
+#EXTINF:-1 tvg-name="NR SR HD" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="STVR",NR SR HD
+https://sktv.plainrock127.xyz/get.php?x=NR_SR
+
+# Markiza
+#EXTINF:-1 tvg-name="Markíza HD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Markiza.sk" group-title="Markíza",Markíza HD
+https://sktv.plainrock127.xyz/get.php?x=Markiza
+#EXTINF:-1 tvg-name="Dajto HD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Dajto.sk" group-title="Markíza",Dajto HD
+https://sktv.plainrock127.xyz/get.php?x=Dajto
+#EXTINF:-1 tvg-name="Doma HD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Markiza.sk" group-title="Markíza",Doma HD
+https://sktv.plainrock127.xyz/get.php?x=Doma
+#EXTINF:-1 tvg-name="Markíza Krimi HD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="MarkizaKrimi.sk" group-title="Markíza",Markíza Krimi HD
+https://sktv.plainrock127.xyz/get.php?x=Krimi
+#EXTINF:-1 tvg-name="Markíza Klasik HD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="MarkizaKlasik.sk" group-title="Markíza",Markíza Klasik HD
+https://sktv.plainrock127.xyz/get.php?x=Klasik
+
+# JOJ
+#EXTINF:-1 tvg-name="JOJ TV FHD" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" tvg-id="JOJ.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ TV FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
+#EXTINF:-1 tvg-name="JOJ Plus FHD" tvg-logo="https://i.imgur.com/1LHa0EI.png" tvg-id="JOJPlus.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Plus FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+#EXTINF:-1 tvg-name="JOJ WAU FHD" tvg-logo="https://i.imgur.com/j51uAjL.png" tvg-id="JOJWAU.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ WAU FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+#EXTINF:-1 tvg-name="JOJ Family FHD" tvg-logo="https://i.imgur.com/k1COMHi.png" tvg-id="JOJFamily.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Family FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-1080.m3u8
+#EXTINF:-1 tvg-name="JOJ Cinema FHD" tvg-logo="https://i.imgur.com/5Auduch.png" tvg-id="JOJCinema.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Cinema FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8
+#EXTINF:-1 tvg-name="JOJ24 FHD" tvg-logo="https://i.imgur.com/Tv12wOd.png" tvg-id="JOJ24.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ24 FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
+#EXTINF:-1 tvg-name="JOJ Šport FHD" tvg-logo="https://i.imgur.com/KirqaU4.png" tvg-id="JOJSport.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Šport FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-name="Jojko FHD" tvg-logo="https://i.imgur.com/JBB1n1Z.png" tvg-id="Jojko.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",Jojko FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
+#EXTINF:-1 tvg-name="CS Film FHD" tvg-logo="https://i.imgur.com/BAAuBB2.png" tvg-id="CSFilm.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Film FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
+#EXTINF:-1 tvg-name="CS History FHD" tvg-logo="https://i.imgur.com/rtYj21D.png" tvg-id="CSHistory.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS History FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
+#EXTINF:-1 tvg-name="CS Mystery FHD" tvg-logo="https://i.imgur.com/3cFbkUj.png" tvg-id="CSMystery.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Mystery FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
+
+# Hudebni
+#EXTINF:-1 tvg-name="Óčko" tvg-logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" group-title="Hudebni",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-name="Óčko Star" tvg-logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" group-title="Hudebni",Óčko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-name="Óčko Expres" tvg-logo="https://i.imgur.com/e731JNS.png" tvg-id="OckoExpres.cz" group-title="Hudebni",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="Hudebni",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Šlágr Originál" tvg-logo="https://i.imgur.com/fQcx9S2.png" tvg-id="SlagrOriginal.cz" group-title="Hudebni",Šlágr Originál
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-name="Šlágr Muzika" tvg-logo="https://i.imgur.com/J9YFHDVS.png" tvg-id="SlagrMuzika.cz" group-title="Hudebni",Šlágr Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-name="Šlágr Premium FHD" tvg-logo="https://i.imgur.com/Lp0IqDx.png" tvg-id="SlagrPremium.cz" group-title="Hudebni",Šlágr Premium FHD
+https://stream-17.mazana.tv/slagrpremium.m3u8s
+#EXTINF:-1 tvg-name="Senzi HD" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Hudebni",Senzi HD
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+
+# Ostatni
+#EXTINF:-1 tvg-name="TA3" tvg-id="TA3.sk" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Ostatni",TA3 
+https://sktv.plainrock127.xyz/get.php?x=TA3
+#EXTINF:-1 tvg-name="Minimax" tvg-id="MinimaxCEE.cz" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Ostatni",Minimax
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-name="Duck TV HD" tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Ostatni",Duck TV HD
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+#EXTINF:-1 tvg-name="Mňau TV FHD" tvg-id="MnauTV.cz" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="Ostatni",Mňau TV FHD
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.cz" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Ostatni",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.sk" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Ostatni",TV8
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+
+# Nabozenske
+#EXTINF:-1 tvg-name="TV NOE HD" tvg-id="TVNoe.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/512px-Noe-logo-2016.png" group-title="Nabozenske",TV NOE HD
+https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="TV NOE+ HD" tvg-id="TVNoePlus.cz" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="Nabozenske",TV NOE+ HD
+https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="TV Lux FHD" tvg-id="Lux.sk" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" group-title="Nabozenske",TV Lux FHD
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="LifeTv FHD" tvg-id="LifeTv.sk" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Nabozenske",LifeTv FHD
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Nabozenske",Maná Cirkev Online (1080p) [Not 24/7]
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+
+# Sport
+#EXTINF:-1 tvg-name="Canal+ Sport FHD" tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sport",Canal+ Sport FHD
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="OneplaySport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1 FHD
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:-1 tvg-name="" tvg-id="OneplaySport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2 FHD
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:-1 tvg-name="" tvg-id="NovaSport6.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_6.png" group-title="Sport",Nova Sport 6 FHD
+http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
+#EXTINF:-1 tvg-name="" tvg-id="Eurosport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="Sport",EUROSPORT 1 HD
+http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+#EXTINF:-1 tvg-name="" tvg-id="Eurosport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",EUROSPORT 2 HD
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1 tvg-name="" tvg-id="PremierSport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1 FHD
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+#EXTINF:-1 tvg-name="" tvg-id="PremierSport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2 FHD
+http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+
+# MUX 21 HEVC
+#EXTINF:-1 tvg-name="ČT1 PHA HD" tvg-id="CT1.cz" logo="" group-title="MUX 21",ČT1 PHA HD
+http://90.178.86.156:9981/stream/channelid/605624177?ticket=90B506663C26008CBBBEF7BBEB31764CA947E962&profile=pass
+#EXTINF:-1 tvg-name="ČT2 HD" tvg-id="CT2.cz" logo="" group-title="MUX 21",ČT2 HD
+http://90.178.86.156:9981/stream/channelid/713826836?ticket=68DE9E55A861BECBD00AA09BAB678E83B451C24B&profile=pass
+#EXTINF:-1 tvg-name="ČT24 HD" tvg-id="CT24.cz" logo="" group-title="MUX 21",ČT24 HD
+http://90.178.86.156:9981/stream/channelid/910989834?ticket=65EED61047D5D4CE9F8F2723C281681AF403351A&profile=pass
+#EXTINF:-1 tvg-name="ČT Sport HD" tvg-id="CTSport.cz" logo="" group-title="MUX 21",ČT Sport HD
+http://90.178.86.156:9981/stream/channelid/2131184355?ticket=C318DE4CDFE5545E77C50476702C9BEE6071ACF0&profile=pass
+#EXTINF:-1 tvg-name="ČT:D/art HD" tvg-id="CTDArt.cz" logo="" group-title="MUX 21",ČT:D/art HD
+http://90.178.86.156:9981/stream/channelid/1163683699?ticket=6D47B8AE29A69CC2B9416C29FE3A8EEB0DBCDD0E&profile=pass
+#EXTINF:-1 tvg-name="ČT1 SM HD" tvg-id="CT1SM.cz" logo="" group-title="MUX 21",ČT1 SM HD
+http://90.178.86.156:9981/stream/channelid/1634355976?ticket=79600487547247390A6AE5F08FD851BB71387A24&profile=pass
+#EXTINF:-1 tvg-name="ČT1 JM HD" tvg-id="CT1JM.cz" logo="" group-title="MUX 21",ČT1 JM HD
+http://90.178.86.156:9981/stream/channelid/452961149?ticket=48C42E27B722FDD6D526078EC364782FF7E202B2&profile=pass
+# EXTINF:-1 tvg-name="ČT1 SVC HD" tvg-id="CT1SVC.cz" logo="" group-title="MUX 21",ČT1 SVC HD
+# EXTINF:-1 tvg-name="ČT1 JZC HD" tvg-id="CT1JZC.cz" logo="" group-title="MUX 21",ČT1 JZC HD
+#EXTINF:-1 tvg-name="" tvg-id="CT1JM.cz" logo="" group-title="MUX 21",CRo RADIOZURNAL
+http://90.178.86.156:9981/stream/channelid/1112735390?ticket=08815E3AB54C755950E1E47A693F54785CC54F4D&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo DVOJKA
+http://90.178.86.156:9981/stream/channelid/543492167?ticket=E1A48F30A92CA02BC00C5158160E6E066EDDCE2D&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo VLTAVA
+http://90.178.86.156:9981/stream/channelid/820153843?ticket=7E039FCE24B44B5F00F15E33FACF54F7B3643691&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo RADIO WAVE
+http://90.178.86.156:9981/stream/channelid/1830380137?ticket=243EC5534F50546829984E76645EFE0B03D88489&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo D-DUR
+http://90.178.86.156:9981/stream/channelid/1939413921?ticket=41CDDA328EC7BED7082E3E58DA772D4E6B481DB7&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo RADIO JUNIOR
+http://90.178.86.156:9981/stream/channelid/1227311156?ticket=E49E4B72C423C34D3C7469C6DF0266CC60AC24CA&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo PLUS
+http://90.178.86.156:9981/stream/channelid/431292067?ticket=E04AFE6A9DB8E893873DAC16375EFD491E3A72AC&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo JAZZ
+http://90.178.86.156:9981/stream/channelid/1464642055?ticket=7506E903A74CC023B6C2BECD1EE2755B40F23F37&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo RZ SPORT
+http://90.178.86.156:9981/stream/channelid/349486138?ticket=DA889B745DF8E3B8CCB9616C71EBA38457FC875A&profile=pass
+#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="" group-title="MUX 21",CRo POHODA
+http://90.178.86.156:9981/stream/channelid/1156007172?ticket=3FCD2931112C86F9F0145EF6A0E9220DBE8EC8F5&profile=pass
+
+# MUX 22 HEVC
+#EXTINF:-1 tvg-name="Prima" logo="" tvg-id="Prima.cz" group-title="MUX 22",Prima
+http://90.178.86.156:9981/stream/channelid/1087967725?ticket=8C536159700D222631FB0E92D12D60064BD5F45C&profile=pass
+#EXTINF:-1 tvg-name="Prima +1" logo="" tvg-id="PrimaPlus1.cz" group-title="MUX 22",Prima +1
+http://90.178.86.156:9981/stream/channelid/1445209288?ticket=9CAD2998991240E820024FA207E9B5DB9E372DD8&profile=pass
+#EXTINF:-1 tvg-name="Prima COOL" logo="" tvg-id="PrimaCool.cz" group-title="MUX 22",Prima COOL
+http://90.178.86.156:9981/stream/channelid/2133572913?ticket=A27A87012BDD7413276286372F6115F74834B13C&profile=pass
+#EXTINF:-1 tvg-name="Prima MAX" logo="" tvg-id="PrimaMax.cz" group-title="MUX 22",Prima MAX
+http://90.178.86.156:9981/stream/channelid/1527891296?ticket=F8E57D4B9128C0BF6ED5260660D6ED844852E038&profile=pass
+#EXTINF:-1 tvg-name="Prima ZOOM" logo="" tvg-id="PrimaZoom.cz" group-title="MUX 22",Prima ZOOM
+http://90.178.86.156:9981/stream/channelid/1375927077?ticket=630962E711D7CB3A501BB1F891D1705C0DE641C9&profile=pass
+#EXTINF:-1 tvg-name="Prima love" logo="" tvg-id="PrimaLove.cz" group-title="MUX 22",Prima love
+http://90.178.86.156:9981/stream/channelid/1424501267?ticket=6A04E0A960E6E64B34C1E213C550F033249B0CEC&profile=pass
+#EXTINF:-1 tvg-name="Prima Krimi" logo="" tvg-id="PrimaKrimi.cz" group-title="MUX 22",Prima KRIMI
+http://90.178.86.156:9981/stream/channelid/1893255842?ticket=947C9DCF489083747790A3866E360B43880FFD34&profile=pass
+#EXTINF:-1 tvg-name="Prima STAR" logo="" tvg-id="PrimaStar.cz" group-title="MUX 22",Prima STAR
+http://90.178.86.156:9981/stream/channelid/1590380750?ticket=74EEFD8194071D805C656F341D61067C5808B565&profile=pass
+#EXTINF:-1 tvg-name="Prima Show" logo="" tvg-id="PrimaShow.cz" group-title="MUX 22",Prima SHOW
+http://90.178.86.156:9981/stream/channelid/748255433?ticket=1EBE2775A9D4429E023B5A7E72718E245AEE177A&profile=pass
+#EXTINF:-1 tvg-name="CNN Prima News" logo="" tvg-id="CNNPrimaNews.cz" group-title="MUX 22",CNN Prima News
+http://90.178.86.156:9981/stream/channelid/363128770?ticket=144A6C2985455D427BE7B6660EEFF92AB8535097&profile=pass
+#EXTINF:-1 tvg-name="Ocko" logo="" tvg-id="Ocko.cz" group-title="MUX 22",Ocko
+http://90.178.86.156:9981/stream/channelid/1183792288?ticket=8D978130413F28E7FFF3D5A7634C8BE005C0B699&profile=pass
+#EXTINF:-1 tvg-name="Ocko STAR" logo="" tvg-id="OckoStar.cz" group-title="MUX 22",Ocko STAR
+http://90.178.86.156:9981/stream/channelid/1340646702?ticket=AC13D4849F4DE93B132BB983CC0C2C2A10A17E54&profile=pass
+#EXTINF:-1 tvg-name="Retro Music TV" logo="" tvg-id="RetroMusicTV.cz" group-title="MUX 22",Retro Music TV
+http://90.178.86.156:9981/stream/channelid/1423076759?ticket=029866B5DE9DAD2A018C4204F4BFE8366F988925&profile=pass
+#EXTINF:-1 tvg-name="Naladte se na digitalni vysilani CRA" logo="" tvg-id="CRA.cz" group-title="MUX 22",Naladte se na digitalni vysilani CRA
+http://90.178.86.156:9981/stream/channelid/1760121847?ticket=53E9492DD0A6290D187EE3F91C7B293DA61B9609&profile=pass
+#EXTINF:-1 tvg-name="RADIO PROGLAS" logo="" tvg-id="RadioProglas.cz" group-title="MUX 22",RADIO PROGLAS
+http://90.178.86.156:9981/stream/channelid/2093422258?ticket=4EFC5DDA30535F6BB670CCF40CE3981531312DA2&profile=pass
+
+# MUX 23 HEVC
+#EXTINF:-1 tvg-name="NOVA" logo="" tvg-id="Nova.cz" group-title="MUX 23",NOVA
+http://90.178.86.156:9981/stream/channelid/2008328081?ticket=67E22A531596E23CEE30922C2FA34513847CD8CB&profile=pass
+#EXTINF:-1 tvg-name="Nova Cinema" logo="" tvg-id="NovaCinema.cz" group-title="MUX 23",Nova Cinema
+http://90.178.86.156:9981/stream/channelid/1887116841?ticket=B7E905D58B967518A425BBC157A2407D14D1005A&profile=pass
+#EXTINF:-1 tvg-name="TV Barrandov" logo="" tvg-id="BarrandovTV.cz" group-title="MUX 23",TV Barrandov
+http://90.178.86.156:9981/stream/channelid/1149773228?ticket=25A3F574B3E456FC1A73D74D40210586FB568366&profile=pass
+#EXTINF:-1 tvg-name="Kino Barrandov" logo="" tvg-id="KinoBarrandov.cz" group-title="MUX 23",Kino Barrandov
+http://90.178.86.156:9981/stream/channelid/468144232?ticket=214361E72DCB22A271DE2D49EAEBF5FE695EE1DC&profile=pass
+#EXTINF:-1 tvg-name="Barrandov Krimi" logo="" tvg-id="BarrandovKrimi.cz" group-title="MUX 23",Barrandov Krimi
+http://90.178.86.156:9981/stream/channelid/63674077?ticket=F0314E312B5B5D787BB736659BC89A176D1ACBAF&profile=pass
+#EXTINF:-1 tvg-name="Seznam.cz TV" logo="" tvg-id="Seznam.cz" group-title="MUX 23",Seznam.cz TV
+http://90.178.86.156:9981/stream/channelid/727402331?ticket=B7E787A497F7E9A01BF42E80F1996DED82B8EC37&profile=pass
+# EXTINF:-1 tvg-name="Warner TV" logo="" tvg-id="Warner TV.cz" group-title="MUX 23",Warner TV
+# EXTINF:-1 tvg-name="Spektrum home" logo="" tvg-id="SpektrumHome.cz" group-title="MUX 23",Spektrum home
+# EXTINF:-1 tvg-name="A11" logo="" tvg-id="A11.cz" group-title="MUX 23",A11
+# EXTINF:-1 tvg-name="DVTV Extra" logo="" tvg-id="DVTVExtra.cz" group-title="MUX 23",DVTV Extra
+# EXTINF:-1 tvg-name="Sporty TV" logo="" tvg-id="SportyTV.cz" group-title="MUX 23",Sporty TV
+#EXTINF:-1 tvg-name="Tv NOE" logo="" tvg-id="TvNoe.cz" group-title="MUX 23",Tv NOE
+http://90.178.86.156:9981/stream/channelid/1183373217?ticket=EED64DA635C8AAC8AB7E84A76526134FA86F6F25&profile=pass
+# EXTINF:-1 tvg-name="Hit TV" logo="" tvg-id="HitTV.cz" group-title="MUX 23",Hit TV 
+# EXTINF:-1 tvg-name="Test-1" logo="" tvg-id="Test1.cz" group-title="MUX 23",Test-1
+# EXTINF:-1 tvg-name="Test-2" logo="" tvg-id="Test2.cz" group-title="MUX 23",Test-2
+# EXTINF:-1 tvg-name="Rádio Impuls" logo="" tvg-id="RadioImpuls.cz" group-title="MUX 23",Rádio Impuls
+#EXTINF:-1 tvg-name="Cesky Impuls" logo="" tvg-id="RadioCeskyImpuls.cz" group-title="MUX 23",Cesky Impuls
+http://90.178.86.156:9981/stream/channelid/462628318?ticket=D2FCBF9AEA1127224DDC2E634FC95C475403E7B7&profile=pass
+# EXTINF:-1 tvg-name="Rock Zone 105,9" logo="" tvg-id="RadioRockZone.cz" group-title="MUX 23",Rock Zone 105.9
+#EXTINF:-1 tvg-name="Radio Dechovka" logo="" tvg-id="RadioDechovka.cz" group-title="MUX 23",Radio Dechovka
+http://90.178.86.156:9981/stream/channelid/1273474159?ticket=996ADB9343D84BDF02A0BDF9285C6752E5A3FA4D&profile=pass
+# EXTINF:-1 tvg-name="UKRAJINSKE RADIO" logo="" tvg-id="RadioUkrajinske.cz" group-title="MUX 23",UKRAJINSKE RADIO
+
+# MUX 24 HEVC
+#EXTINF:-1 tvg-name="Nova" logo="" tvg-id="Nova.cz" group-title="MUX 24",Nova
+http://90.178.86.156:9981/stream/channelid/151439389?ticket=7A61A20FAF788ADD43E62E299501406B2496B0AB&profile=pass
+#EXTINF:-1 tvg-name="NovaAction" logo="" tvg-id="NovaAction.cz" group-title="MUX 24",Nova Action
+http://90.178.86.156:9981/stream/channelid/74203489?ticket=052A516C018ED2BE6D5368C5A99CB7EACA06274D&profile=pass
+#EXTINF:-1 tvg-name="NovaFun" logo="" tvg-id="NovaFun.cz" group-title="MUX 24",Nova Fun
+http://90.178.86.156:9981/stream/channelid/149509414?ticket=51C0CBF38533DAC38EA12F87A8F26F54A8A81051&profile=pass
+#EXTINF:-1 tvg-name="NovaLady" logo="" tvg-id="NovaLady.cz" group-title="MUX 24",Nova Lady
+http://90.178.86.156:9981/stream/channelid/1621845797?ticket=1CAE59C96C14B035BDAF7F52AEA97D54B0668880&profile=pass
+#EXTINF:-1 tvg-name="NovaGold" logo="" tvg-id="NovaGold.cz" group-title="MUX 24",Nova Gold
+http://90.178.86.156:9981/stream/channelid/931381864?ticket=BA81BE388518109BFD4B3F84DD995E62F61E3AAB&profile=pass
+#EXTINF:-1 tvg-name="Paramount Network" logo="" tvg-id="ParamountNetwork.cz" group-title="MUX 24",Paramount Network
+http://90.178.86.156:9981/stream/channelid/1963571459?ticket=465FA1E302F5DD01CA5C92639F19D140D0C8024C&profile=pass
+#EXTINF:-1 tvg-name="CS Mystery" logo="" tvg-id="CSMystery.cz" group-title="MUX 24",CS Mystery
+http://90.178.86.156:9981/stream/channelid/755795261?ticket=A343EA0835594F7FC3F0EB29A08FE14B4E2C68A4&profile=pass
+#EXTINF:-1 tvg-name="JOJ Family" logo="" tvg-id="JOJFamily.cz" group-title="MUX 24",JOJ Family
+http://90.178.86.156:9981/stream/channelid/1138027461?ticket=44D3F92EA7464EDA3C0256F4FCEB3234D7923176&profile=pass
+#EXTINF:-1 tvg-name="RELAX" logo="" tvg-id="Relax.cz" group-title="MUX 24",RELAX
+http://90.178.86.156:9981/stream/channelid/258289129?ticket=B7EB79A0FD6572020B3C64B06F04E0F517DC2493&profile=pass
+#EXTINF:-1 tvg-name="REBEL" logo="" tvg-id="Rebel.cz" group-title="MUX 24",REBEL
+http://90.178.86.156:9981/stream/channelid/1427960493?ticket=4530B91A9AA76E99AD5769CC057FBF9986DB0C64&profile=pass
+#EXTINF:-1 tvg-name="Slager original" logo="" tvg-id="SlagerOriginal.cz" group-title="MUX 24",Slager original
+http://90.178.86.156:9981/stream/channelid/923865072?ticket=8BA723B39855C87779C9493825708640169B3640&profile=pass
+# EXTINF:-1 tvg-name="Slager Muzika" logo="" tvg-id="SlagerMuzika.cz" group-title="MUX 23",Slager Muzika
+# EXTINF:-1 tvg-name="Slager Premium" logo="" tvg-id="SlagerPremium.cz" group-title="MUX 23",Slager Premium
+# EXTINF:-1 tvg-name="OK TV" logo="" tvg-id="OKTV.cz" group-title="MUX 23",OK TV
+# EXTINF:-1 tvg-name="DB Test 1" logo="" tvg-id="DBTest1.cz" group-title="MUX 23",DB Test 1
+# EXTINF:-1 tvg-name="DB Test 2" logo="" tvg-id="DBTest2.cz" group-title="MUX 23",DB Test 2
+#EXTINF:-1 tvg-name="ABC TV" tvg-id="ABC.cz" logo="" group-title="MUX 24",ABC TV
+http://90.178.86.156:9981/stream/channelid/1380287042?ticket=2061FBB044598B967A1D093E1BD355107C967723&profile=pass
+#EXTINF:-1 tvg-name="Praha TV" tvg-id="PrahaTV.cz" logo="" group-title="MUX 24",Praha TV
+http://90.178.86.156:9981/stream/channelid/356678423?ticket=FC1AABD752294B148D2B56883CEC0DB2BDD72F30&profile=pass
+#EXTINF:-1 tvg-name="Televize pres antenu" tvg-id="TelevizePresAntenu.cz" logo="" group-title="MUX 24",Televize pres antenu
+http://90.178.86.156:9981/stream/channelid/1251773239?ticket=F666AAB05CB918438EDE907A4F4BEAEB73E645F4&profile=pass
+#EXTINF:-1 tvg-name="Radio Cas" logo="" tvg-id="RadioCas.cz" group-title="MUX 24",Radio Cas
+http://90.178.86.156:9981/stream/channelid/187879286?ticket=67A7EE9002EFF3A4E0E6A93DC4DC6DA936356AFA&profile=pass
+#EXTINF:-1 tvg-name="Radio Cas Rock" logo="" tvg-id="RadioCasRock.cz" group-title="MUX 24",Radio Cas Rock
+http://90.178.86.156:9981/stream/channelid/1892725541?ticket=6DC072C056456C1CA7300B988CDD8020F82595FB&profile=pass
+
+# Regionalni CZ
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="Regionalni CZ",Elektrika TV
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JC1.cz" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="Regionalni CZ",JČ1 (1080p)
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="Regionalni CZ",JihoMUX 21 (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="Regionalni CZ",OIK TV (720p)
+https://streamer05.low-latency.cz/oiktv/index.m3u8
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="Regionalni CZ",Plzeň TV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="Regionalni CZ",Polar TV (1080p)
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Polar2.cz" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="Regionalni CZ",Polar2 TV (1080p)
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="Regionalni CZ",Praha TV (1080p)
+https://edge.prahatv.eu/s-tv-praha/channels/live/praha-tvzm85l2hf9y-1-1/praha-tv-1-1-clear.m3u8
+#EXTINF:-1 tvg-id="RTMPlus.cz" tvg-logo="https://i.imgur.com/RNdcP2J.png" group-title="Regionalni CZ",RTM Plus (720p)
+https://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="Regionalni CZ",TV Brno 1 (1080p)
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Regionalni CZ",ÚTV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="Regionalni CZ",Východočeská TV (1080p)
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+
+# Regionalni SK
+#EXTINF:-1 tvg-id="Kosice.sk" tvg-name="Košice:dnes" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="Regionalni SK",Košice:dnes
+http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LubovnianskaTV.sk" tvg-logo="https://i.imgur.com/ZgHIdGn.jpg" group-title="Regionalni SK",L'ubovnianska TV (1080p)
+https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8
+#EXTINF:-1 tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Regionalni SK",MTR Ruzomberok (1080p)
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="TVRaj.sk" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="Regionalni SK",Raj TV (720p) [Not 24/7]
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="Regionalni SK",Televízia Močenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="Regionalni SK",TV Brezová (540p)
+http://95.105.193.219:88/hls/tvb.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Regionalni SK",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="Regionalni SK",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Regionalni SK",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Regionalni SK",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="Regionalni SK",TV Myjava (540p)
+http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="Regionalni SK",TV Nové Zámky (486p) [Not 24/7]
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="Regionalni SK",TV Poprad (1080p) [Not 24/7]
+http://213.81.153.221:8080/poprad
+#EXTINF:-1 tvg-id="TVPovazie.sk" tvg-name="TV Povazie" tvg-logo="https://i.imgur.com/3cEG19H.jpg" group-title="Regionalni SK",TV Povazie
+http://213.181.128.248:8090/tvpovazie-h264.flv
+#EXTINF:-1 tvg-id="TVReduta.sk" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Regionalni SK",TV Reduta (486p)
+https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Regionalni SK",TV Romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Regionalni SK",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="Regionalni SK",TV Sen (540p)
+http://95.105.193.219:88/hls/tvsen.m3u8
+#EXTINF:-1 tvg-id="TVSeverka.sk" tvg-logo="https://i.imgur.com/oQSee9S.png" group-title="Regionalni SK",TV Severka (576p) [Not 24/7]
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSkalica.sk" tvg-logo="https://i.imgur.com/GB8fMoJ.png" group-title="Regionalni SK",TV Skalica (540p)
+http://95.105.193.219:88/hls/tvs.m3u8
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="Regionalni SK",TV Stará Turá (540p)
+http://95.105.193.219:88/hls/tvst.m3u8
+#EXTINF:-1 tvg-id="TVVega.sk" tvg-logo="https://i.imgur.com/Qw3NeLA.png" group-title="Regionalni SK",TV Vega (576p) [Not 24/7]
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.sk" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="Regionalni SK",TV Turzovka (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Regionalni SK",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="Regionalni SK",Západoslovenská TV (1080p)
+https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8
+
+# Oravia
+
+# CSRTV
+# https://www.youtube.com/watch?v=1fVzTicfyB4
+
+# TV DOKTOR
+# https://www.tvdoktor.sk/live/
+
+# TV Hronka
+# https://www.tvhronka.sk/live/
+
+# Kezmarska televizia
+# https://www.kukni.sk/index.php?page=nazivo-kezmarska-televizia
+
+# TV nitrička
+# https://www.youtube.com/watch?v=5td__vDlOEY
+
+# TV Nové Zámky
+# https://www.nztv.eu/nazivo
+
+# TV Panoráma
+# https://panoramapro.sk/live/
+
+# TV Poprad
+# https://www.tvpoprad.sk/
+
+# TV Raj
+# https://www.tvraj.sk/p/16/zive-vysielanie
+
+# TV Reduta
+# https://www.snv.sk/
+
+# TV Sen
+# https://www.tvsen.sk/stream-tvsen/
+
+# TV Skalica
+# https://www.tvsen.sk/stream-tvs/
+
+# TV Myjava
+# https://www.tvsen.sk/stream-tvm/
+
+# TV Brezová pod Radlom
+# https://www.tvsen.sk/stream-tvb
+
+# TV Stará Turá
+# https://www.tvsen.sk/stream-tvst
+
+# SMT
+# https://www.youtube.com/watch?v=jUxjqVUG-5E
+
+ 
+# Radio
+#EXTINF:-1 tvg-id="RadioBlackHornet.cz" group-title="Radio",Radio Black Hornet
+http://icecast9.play.cz/bhradio-128.mp3
+#EXTINF:-1 tvg-id="RadioBEAT.cz" group-title="Radio",Radio BEAT
+http://icecast2.play.cz/radiobeat128.mp3
+#EXTINF:-1 tvg-id="RadioBIKERSDOUPE.cz" group-title="Radio",BIKERS RADIO DOUPE
+http://icecast7.play.cz/bikersradiodoupe128.mp3
+#EXTINF:-1 tvg-id="RadioCeskyImpuls.cz" group-title="Radio",Český Impuls
+http://icecast6.play.cz/cesky-impuls.mp3
+#EXTINF:-1 tvg-id="RadioClassicPraha.cz" group-title="Radio",Classic Praha
+http://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 tvg-id="RadioClub.cz" group-title="Radio",ClubRadio.cz
+http://icecast2.play.cz/Clubradio.mp3
+#EXTINF:-1 tvg-id="RadioCOLORMusic.cz" group-title="Radio",COLOR Music Radio
+http://icecast8.play.cz/color128.mp3
+#EXTINF:-1 tvg-id="RadioCOUNTRY.cz" group-title="Radio",COUNTRY RADIO
+http://icecast4.play.cz/country128.mp3
+#EXTINF:-1 tvg-id="RadioCroPohoda.cz" group-title="Radio",Český rozhlas Pohoda
+https://rozhlas.stream/pohoda_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroRadiozurnal.cz" group-title="Radio",Český rozhlas Radiožurnál
+https://rozhlas.stream/radiozurnal_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroSport.cz" group-title="Radio",Český rozhlas Radiožurnál Sport
+https://rozhlas2.stream/sport_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroDvojka.cz" group-title="Radio",Český rozhlas Dvojka
+https://rozhlas.stream/dvojka_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroVltava.cz" group-title="Radio",Český rozhlas Vltava
+https://rozhlas.stream/vltava_mp3_256.mp3
+#EXTINF:-1 tvg-id="RadioCroPlus.cz" group-title="Radio",Český rozhlas Plus
+https://rozhlas.stream/plus_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroPragueInternational.cz" group-title="Radio",Radio Prague International
+https://rozhlas.stream/cro7_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroWave.cz" group-title="Radio",Český rozhlas Radio Wave
+https://rozhlas.stream/wave_mp3_256.mp3
+#EXTINF:-1 tvg-id="RadioCroDdur.cz" group-title="Radio",Český rozhlas D-dur
+https://rozhlas.stream/ddur_mp3_256.mp3
+#EXTINF:-1 tvg-id="RadioCroJazz.cz" group-title="Radio",Český rozhlas Jazz
+https://rozhlas.stream/jazz_mp3_256.mp3
+#EXTINF:-1 tvg-id="RadioCroJunior.cz" group-title="Radio",Český rozhlas Rádio Junior
+https://rozhlas.stream/juniormaxi_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroJuniorPisnicky.cz" group-title="Radio",Český rozhlas Rádio Junior Písničky
+https://rozhlas.stream/juniormini_mp3_128.mp3
+#EXTINF:-1 tvg-id="Radio.cz" group-title="Radio",Český rozhlas Brno
+https://rozhlas.stream/brno_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroCeskeBudejovice.cz" group-title="Radio",Český rozhlas České Budějovice
+https://rozhlas.stream/cb_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroHradecKralove.cz" group-title="Radio",Český rozhlas Hradec Králové
+https://rozhlas.stream/hk_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroOlomouc.cz" group-title="Radio",Český rozhlas Olomouc
+https://rozhlas.stream/olomouc_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroOstrava.cz" group-title="Radio",Český rozhlas Ostrava
+https://rozhlas.stream/ov_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroPardubice.cz" group-title="Radio",Český rozhlas Pardubice
+https://rozhlas.stream/pardubice_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroPlzen.cz" group-title="Radio",Český rozhlas Plzeň
+https://rozhlas.stream/plzen_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroKarlovyVary.cz" group-title="Radio",Český rozhlas Karlovy Vary
+https://rozhlas.stream/kv_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroDABPraha.cz" group-title="Radio",Český rozhlas Rádio DAB Praha
+https://rozhlas.stream/regina_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroStredniCechy.cz" group-title="Radio",Český rozhlas Střední Čechy
+https://rozhlas.stream/region_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroVysocina.cz" group-title="Radio",Český rozhlas Vysočina
+https://rozhlas.stream/vysocina_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroSever.cz" group-title="Radio",Český rozhlas Sever
+https://rozhlas.stream/sever_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroLiberec.cz" group-title="Radio",Český rozhlas Liberec
+https://rozhlas.stream/liberec_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioCroZlin.cz" group-title="Radio",Český rozhlas Zlín
+https://rozhlas.stream/zlin_mp3_128.mp3
+#EXTINF:-1 tvg-id="RadioDABPlusTop40.cz" group-title="Radio",DAB Plus Top 40
+http://icecast6.play.cz/dabplus-top40.mp3
+#EXTINF:-1 tvg-id="RadioENERGIC.cz" group-title="Radio",ENERGIC
+http://icecast9.play.cz/energic.mp3
+#EXTINF:-1 tvg-id="RadioExpresFM.cz" group-title="Radio",Expres FM
+http://icecast8.play.cz/expres128mp3
+#EXTINF:-1 tvg-id="RadioFreeBrno.cz" group-title="Radio",Free Rádio 107.0 FM Brno
+http://icecast8.play.cz/freeradio128.mp3
+#EXTINF:-1 tvg-id="RadioHana.cz" group-title="Radio",Rádio Haná
+http://icecast8.play.cz/hana128.mp3
+#EXTINF:-1 tvg-id="RadioHardradioFm.cz" group-title="Radio",hardradio.fm
+http://icecast3.play.cz/hardradiofm128.mp3
+#EXTINF:-1 tvg-id="RadioHey.cz" group-title="Radio",HEY Radio
+http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1 tvg-id="RadioImpuls.cz" group-title="Radio",Impuls Ráááádio
+http://icecast1.play.cz/impuls128.mp3
+#EXTINF:-1 tvg-id="RadioJih.cz" group-title="Radio",JIH - Rádio jižní Moravy
+http://icecast6.play.cz/jih128.mp3
+#EXTINF:-1 tvg-id="RadioKrokodyl.cz" group-title="Radio",Krokodýl
+http://icecast4.play.cz/krokodyl128.mp3
+#EXTINF:-1 tvg-id="RadioLimonadovyJOE.cz" group-title="Radio",Limonádový JOE
+http://icecast8.play.cz/limonadovyjoe128.mp3
+#EXTINF:-1 tvg-id="RadioNetroLife.cz" group-title="Radio",Netro Life radio 100.8 FM
+http://icecast9.play.cz/netro-life-radio.mp3
+#EXTINF:-1 tvg-id="RadioO106.cz" group-title="Radio",O 106
+https://www.radioking.com/play/o106
+#EXTINF:-1 tvg-id="RadioProglas.cz" group-title="Radio",Radio Proglas
+http://icecast2.play.cz/proglas128
+#EXTINF:-1 tvg-id="Radio1.cz" group-title="Radio",Radio 1
+http://icecast2.play.cz/radio1-192.mp3
+#EXTINF:-1 tvg-id="Radio7.cz" group-title="Radio",Rádio 7
+http://icecast8.play.cz/radio7-128.mp3
+#EXTINF:-1 tvg-id="RadioCasRock.cz" group-title="Radio",Rádio Čas Rock
+http://icecast9.play.cz/casrock192.mp3
+#EXTINF:-1 tvg-id="RadioCas.cz" group-title="Radio",Rádio Čas
+http://icecast9.play.cz/casradio192.mp3
+#EXTINF:-1 tvg-id="RadioDIXIE.cz" group-title="Radio",RADIO DIXIE
+http://icecast8.play.cz/radiodixie192.mp3
+#EXTINF:-1 tvg-id="RadioDechovka.cz" group-title="Radio",Radio Dechovka
+http://icecast5.play.cz/dechovka128.mp3
+#EXTINF:-1 tvg-id="RadioFajnRockMusic.cz" group-title="Radio",Radio Fajn Rock Music
+http://icecast2.play.cz/fajnrock192.mp3
+#EXTINF:-1 tvg-id="RadioJihCimbalka.cz" group-title="Radio",Rádio Jih Cimbálka
+http://icecast6.play.cz/jihcimbalka128.mp3
+#EXTINF:-1 tvg-id="RadioJihlava.cz" group-title="Radio",Rádio Jihlava
+http://icecast3.play.cz/radiojihlava128.mp3
+#EXTINF:-1 tvg-id="RadioKiss.cz" group-title="Radio",Radio Kiss
+http://icecast9.play.cz/kiss128.mp3
+#EXTINF:-1 tvg-id="RadioKromeriz.cz" group-title="Radio",Radio Kroměříž
+http://icecast6.play.cz/radio-kromeriz128.mp3
+#EXTINF:-1 tvg-id="RadioMB.cz" group-title="Radio",Rádio MB
+http://icecast3.play.cz/radiomb.mp3
+#EXTINF:-1 tvg-id="RadioMetropole.cz" group-title="Radio",Radio Metropole
+http://icecast9.play.cz/metropole128.mp3
+#EXTINF:-1 tvg-id="RadioNOSTALGIE.cz" group-title="Radio",RADIO NOSTALGIE
+http://icecast3.play.cz/radio-nostalgie128.mp3
+#EXTINF:-1 tvg-id="RadioOstravan.cz" group-title="Radio",Rádio Ostravan
+http://icecast9.play.cz/radio-ostravan-256.mp3
+#EXTINF:-1 tvg-id="RadioRELAX.cz" group-title="Radio",RELAX Radio
+http://icecast7.play.cz/relax128.mp3
+#EXTINF:-1 tvg-id="RadioSamson.cz" group-title="Radio",Rádio Samson Digital
+http://icecast8.play.cz/samsonfm128.mp3
+#EXTINF:-1 tvg-id="RadioSAZAVA.cz" group-title="Radio",Radio SÁZAVA
+http://icecast8.play.cz/sazava192.mp3
+#EXTINF:-1 tvg-id="RadioSpin.cz" group-title="Radio",Rádio Spin
+http://icecast4.play.cz/spin128.mp3
+#EXTINF:-1 tvg-id="RadioTrojka.cz" group-title="Radio",Rádio Trojka
+https://rbx2.hnux.com/http://12901.cloudrad.io:9306/live
+#EXTINF:-1 tvg-id="RadioXaver.cz" group-title="Radio",Radio Xaver
+http://icecast9.play.cz/radio-xaver.mp3
+#EXTINF:-1 tvg-id="RadioRockArena.cz" group-title="Radio",Rock Arena
+http://icecast6.play.cz/rockarena.mp3
+#EXTINF:-1 tvg-id="RadioRockZone.cz" group-title="Radio",RockZone 105.9
+http://icecast2.play.cz/rockzone128.mp3
+#EXTINF:-1 tvg-id="RadioSeeJay.cz" group-title="Radio",SeeJay Radio
+http://icecast6.play.cz/seejay128.mp3
+#EXTINF:-1 tvg-id="RadioSignalBrno.cz" group-title="Radio",Signál Rádio Brno
+http://icecast3.play.cz/signal-brno192.mp3
+#EXTINF:-1 tvg-id="RadioSignal.cz" group-title="Radio",Signál Rádio
+http://icecast1.play.cz/signal192.mp3
+#EXTINF:-1 tvg-id="RadioSKYROCK.cz" group-title="Radio",SKYROCK
+http://icecast8.play.cz/skyrock128.mp3
+#EXTINF:-1 tvg-id="RadioSlowDown.cz" group-title="Radio",Slow Down Radio
+http://icecast9.play.cz/slowdown.mp3
+#EXTINF:-1 tvg-id="RadioStreetCulture.cz" group-title="Radio",StreetCulture
+http://icecast2.play.cz/streetradio.mp3
+#EXTINF:-1 tvg-id="RadioUnderground.cz" group-title="Radio",Undergroundradio
+http://icecast2.play.cz/Underground128.mp3
+#EXTINF:-1 tvg-id="RadioZUN.cz" group-title="Radio",ZUN Radio
+http://icecast9.play.cz/zun192.mp3
+#EXTINF:-1 tvg-id="RadioZUN.cz" group-title="Radio",ZUN Radio (alt)
+https://stream.zunradio.cz/zun3.mp3
+
+#EXTINF:-1 tvg-id="RadioAlternativeTimes.cz" group-title="Radio",Alternative Times Radio
+http://ice2.radia.cz/alternative128.aac
+#EXTINF:-1 tvg-id="RadioBlanikCZ.cz" group-title="Radio",Radio Blaník CZ
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIKCZ.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioBlanikOldies.cz" group-title="Radio",BLANÍK Oldies
+https://ice2.radia.cz/oldiesradio128.aac
+#EXTINF:-1 tvg-id="RadioDNBTV.cz" group-title="Radio",DNB TV Radio
+https://ice4.radia.cz/dnb_tv_128.aac
+#EXTINF:-1 tvg-id="RadioJAZZINEC.cz" group-title="Radio",E-Rádio JAZZINEC
+https://ice2.radia.cz/jazzinec128.aac
+#EXTINF:-1 tvg-id="RadioFajnFresh.cz" group-title="Radio",Fajn Fresh Radio
+https://ice2.abradio.cz/fajnfresh128.aac
+#EXTINF:-1 tvg-id="RadioFajnHelax.cz" group-title="Radio",Fajn Helax
+https://ice2.radia.cz/helax128.aac
+#EXTINF:-1 tvg-id="RadioFajn.cz" group-title="Radio",Fajn Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAJN_RADIO.aac?gdpr=0'
+#EXTINF:-1 tvg-id="RadioFajnVibe.cz" group-title="Radio",Fajn Vibe
+https://ice4.radia.cz/fajn_vibe_128.aac
+#EXTINF:-1 tvg-id="RadioHipHopVibes.cz" group-title="Radio",HipHopVibes Radio
+https://ice2.radia.cz/hiphopvibes128.aac
+#EXTINF:-1 tvg-id="RadioHitCernaHora.cz" group-title="Radio",Hitrádio Černá Hora
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CERNAHORA.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitCity.cz" group-title="Radio",Hitrádio City 93.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CITY_PRAHA.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitCityBrno.cz" group-title="Radio",Hitrádio City Brno
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CITY_BRNOAAC128.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitContact.cz" group-title="Radio",Hitrádio Contact
+https://ice2.radia.cz/hitradiocontact128.aac
+#EXTINF:-1 tvg-id="RadioHitDesitka.cz" group-title="Radio",Hitrádio Desítka
+https://ice2.abradio.cz/hit10128.aac
+#EXTINF:-1 tvg-id="RadioHitDevadesatka.cz" group-title="Radio",Hitrádio Devadesátka
+https://ice2.radia.cz/hit90128.aac
+#EXTINF:-1 tvg-id="RadioHitFaktor.cz" group-title="Radio",Hitrádio Faktor
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FAKTOR.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitFMPlus.cz" group-title="Radio",Hitrádio FM Plus
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitMilénium.cz" group-title="Radio",Hitrádio Milénium
+https://ice2.radia.cz/hitmi128.aac
+#EXTINF:-1 tvg-id="RadioHitNorthMusic.cz" group-title="Radio",Hitrádio North Music
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_NORTH_MUSIC.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitOrion.cz" group-title="Radio",Hitrádio Orion
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_ORION.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitOsmdesatka.cz" group-title="Radio",Hitrádio Osmdesátka
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_OSMDESATKA.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitPopRock.cz" group-title="Radio",Hitrádio PopRock
+https://ice2.radia.cz/hitpoprock128.aac
+#EXTINF:-1 tvg-id="RadioHitVysocina.cz" group-title="Radio",Hitrádio Vysočina
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_VYSOCINA.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitZlin.cz" group-title="Radio",Hitrádio Zlín
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_ZLINAAC128.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioHitZonaLasky.cz" group-title="Radio",Hitrádio Zóna lásky
+https://ice2.radia.cz/hitzl128.aac
+#EXTINF:-1 tvg-id="RadioKostka.cz" group-title="Radio",Kostka Rádio
+https://ice6.radia.cz/kostka128.mp3
+#EXTINF:-1 tvg-id="Radio66.cz" group-title="Radio",Radio 66
+https://ice2.radia.cz/route64.aac
+#EXTINF:-1 tvg-id="RadioBenesovCity.cz" group-title="Radio",Rádio Benešov City
+https://ice2.radia.cz/benesov64.aac
+#EXTINF:-1 tvg-id="RadioBlanik.cz" group-title="Radio",Rádio BLANÍK
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioBlanikMorava.cz" group-title="Radio",Rádio BLANÍK - Morava a Slezsko
+https://ice2.radia.cz/blanikmorava128.aac
+#EXTINF:-1 tvg-id="RadioBOHEMIA.cz" group-title="Radio",Rádio BOHEMIA
+https://stream-radiobohemia.cz:8443/stream128.mp3
+#EXTINF:-1 tvg-id="RadioBojlerRoom.cz" group-title="Radio",Rádio BojlerRoom
+https://ice4.radia.cz/bojler_room_256.aac
+#EXTINF:-1 tvg-id="RadioChillout.cz" group-title="Radio",Radio Chillout
+https://ice2.radia.cz/chillout128.aac
+#EXTINF:-1 tvg-id="RadioDepecheMode.cz" group-title="Radio",Radio Depeche Mode
+https://ice2.radia.cz/depeche128.aac
+#EXTINF:-1 tvg-id="RadioDomino.cz" group-title="Radio",Radio Domino
+https://ice4.radia.cz/domino128.mp3
+#EXTINF:-1 tvg-id="RadioFolk.cz" group-title="Radio",Radio Folk
+https://ice3.radia.cz/folk128.mp3
+#EXTINF:-1 tvg-id="RadioHumor.cz" group-title="Radio",Rádio Humor
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioIn.cz" group-title="Radio",Rádio In
+https://ice5.abradio.cz/inradio128.mp3
+#EXTINF:-1 tvg-id="RadioKaspar.cz" group-title="Radio",Rádio Kašpar
+https://ice6.abradio.cz/kasparlive128.mp3
+#EXTINF:-1 tvg-id="RadioOldiesRock.cz" group-title="Radio",Radio Oldies Rock
+https://ice2.radia.cz/oldiesrock128.aac'
+#EXTINF:-1 tvg-id="RadioPohadka.cz" group-title="Radio",Rádio Pohádka
+https://ice3.radia.cz/pohadka128.mp3
+#EXTINF:-1 tvg-id="RadioPovidka.cz" group-title="Radio",Rádio Povídka
+https://ice2.radia.cz/povidka128.aac
+#EXTINF:-1 tvg-id="RadioRohozec.cz" group-title="Radio",Rádio Rohozec
+https://ice4.radia.cz/radio_rohozec_128.aac
+#EXTINF:-1 tvg-id="RadioTloskov.cz" group-title="Radio",Rádio Tloskov
+https://ice2.radia.cz/tloskov64.aac
+#EXTINF:-1 tvg-id="RadioVratislavice.cz" group-title="Radio",Rádio Vratislavice
+https://ice2.abradio.cz/vratislavice64.aac
+#EXTINF:-1 tvg-id="RadioVYSSIHLAS.cz" group-title="Radio",Rádio VYŠŠÍ HLAS
+https://ice4.abradio.cz/vyssihlas128.mp3
+#EXTINF:-1 tvg-id="RadioZdravi.cz" group-title="Radio",Rádio Zdraví
+https://www.radioking.com/play/zdravi/697435
+#EXTINF:-1 tvg-id="RadioRelaxaceJedouciVlak.cz" group-title="Radio",Relaxace - Jedoucí Vlak
+https://ice6.radia.cz/relax-train128.mp3
+#EXTINF:-1 tvg-id="RadioRelaxaceLetniBourka.cz" group-title="Radio",Relaxace - Letní bouřka
+https://ice6.radia.cz/relax-thunder-rain128.mp3
+#EXTINF:-1 tvg-id="RadioRelaxaceMore.cz" group-title="Radio",Relaxace - Moře
+https://ice6.radia.cz/relax-sea128.mp3
+#EXTINF:-1 tvg-id="RadioRelaxaceOhenvKrbu.cz" group-title="Radio",Relaxace - Oheň v krbu
+https://ice6.radia.cz/relax-fire128.mp3
+#EXTINF:-1 tvg-id="RadioRelaxaceZpevPtaku.cz" group-title="Radio",Relaxace - Zpěv ptáků
+https://ice6.radia.cz/relax-morning-birds128.mp3
+#EXTINF:-1 tvg-id="RadioRock.cz" group-title="Radio",Rock Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO.aac?gdpr=0
+#EXTINF:-1 tvg-id="RadioRockLegends.cz" group-title="Radio",Rock rádio - Legends of Rock
+https://ice4.radia.cz/legends_of_rock_128.mp3
+#EXTINF:-1 tvg-id="RadioRockAlternative.cz" group-title="Radio",Rock rádio - Alternative Rock
+https://ice2.radia.cz/znamkapunku128.aac
+#EXTINF:-1 tvg-id="RadioRockCZ.cz" group-title="Radio",Rock rádio - CZ Rock
+https://ice2.radia.cz/rockzabava128.aac
+#EXTINF:-1 tvg-id="RadioRockHardHeavy.cz" group-title="Radio",Rock rádio - Hard and Heavy
+https://ice2.radia.cz/metalomanie128.aac
+#EXTINF:-1 tvg-id="RadioMorava.cz" group-title="Radio",Rock Radio Morava
+https://ice.radia.cz/rockradiomorava128.mp3
+#EXTINF:-1 tvg-id="RadioRoma.cz" group-title="Radio",Roma Rádio
+https://ice5.radia.cz/romaradio128.mp3
+#EXTINF:-1 tvg-id="RadioEpigon.cz" group-title="Radio",WebRádio Epigon
+https://ice3.radia.cz/epigon128.mp3'
+
+#EXTINF:-1 tvg-id="RadioApplaus.cz" group-title="Radio",Applaus Rádio
+http://mp3stream3.abradio.cz:8000/applaus128.mp3
