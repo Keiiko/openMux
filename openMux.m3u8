@@ -32,17 +32,23 @@ https://sktv.plainrock127.xyz/get.php?x=CTart
 https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
 
 # Nova
-#EXTINF:-1 tvg-name="Nova HD" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="Nova",Nova HD
+#EXTINF:-1 tvg-name="Nova HD" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova HD
+#EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://sktv.plainrock127.xyz/get.php?x=Nova
-#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" tvg-id="NovaCinema.cz" group-title="Nova",Nova Cinema HD
+#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" tvg-id="NovaCinema.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Cinema HD
+#EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://sktv.plainrock127.xyz/get.php?x=NovaCinema
-#EXTINF:-1 tvg-name="Nova Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" tvg-id="NovaAction.cz" group-title="Nova",Nova Action HD
+#EXTINF:-1 tvg-name="Nova Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" tvg-id="NovaAction.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Action HD
+#EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://sktv.plainrock127.xyz/get.php?x=NovaAction
-#EXTINF:-1 tvg-name="Nova Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" tvg-id="NovaFun.cz" group-title="Nova",Nova Fun HD
+#EXTINF:-1 tvg-name="Nova Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" tvg-id="NovaFun.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Fun HD
+#EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://sktv.plainrock127.xyz/get.php?x=NovaFun
-#EXTINF:-1 tvg-name="Nova Lady HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/640px-Logo_Nova_Lady_2021.png" tvg-id="NovaLady.cz" group-title="Nova",Nova Lady HD
+#EXTINF:-1 tvg-name="Nova Lady HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/640px-Logo_Nova_Lady_2021.png" tvg-id="NovaLady.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Lady HD
+#EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://sktv.plainrock127.xyz/get.php?x=NovaLady
-#EXTINF:-1 tvg-name="Nova Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" tvg-id="NovaGold.cz" group-title="Nova",Nova Gold HD
+#EXTINF:-1 tvg-name="Nova Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" tvg-id="NovaGold.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Gold HD
+#EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://sktv.plainrock127.xyz/get.php?x=NovaGold
 #EXTINF:-1 tvg-name="TN Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo-tn-cz.png" tvg-id="tvnova.cz" group-title="Nova",TN Live FHD
 https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
@@ -92,15 +98,20 @@ https://sktv.plainrock127.xyz/get.php?x=RTVS
 https://sktv.plainrock127.xyz/get.php?x=NR_SR
 
 # Markiza
-#EXTINF:-1 tvg-name="Markíza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/640px-Mark%C3%ADza_%282022%29.svg.png" tvg-id="Markiza.sk" group-title="Markíza",Markíza HD
+#EXTINF:-1 tvg-name="Markíza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/640px-Mark%C3%ADza_%282022%29.svg.png" tvg-id="Markiza.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza HD
+#EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://sktv.plainrock127.xyz/get.php?x=Markiza
-#EXTINF:-1 tvg-name="Dajto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mark%C3%ADza_Dajto_%282022%29.svg/640px-Mark%C3%ADza_Dajto_%282022%29.svg.png" tvg-id="Dajto.sk" group-title="Markíza",Dajto HD
+#EXTINF:-1 tvg-name="Dajto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mark%C3%ADza_Dajto_%282022%29.svg/640px-Mark%C3%ADza_Dajto_%282022%29.svg.png" tvg-id="Dajto.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Dajto HD
+#EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://sktv.plainrock127.xyz/get.php?x=Dajto
-#EXTINF:-1 tvg-name="Doma HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mark%C3%ADza_Doma_%282022%29.svg/640px-Mark%C3%ADza_Doma_%282022%29.svg.png" tvg-id="Doma.sk" group-title="Markíza",Doma HD
+#EXTINF:-1 tvg-name="Doma HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mark%C3%ADza_Doma_%282022%29.svg/640px-Mark%C3%ADza_Doma_%282022%29.svg.png" tvg-id="Doma.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Doma HD
+#EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://sktv.plainrock127.xyz/get.php?x=Doma
-#EXTINF:-1 tvg-name="Markíza Krimi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mark%C3%ADza_Krimi_Logo_2022.svg/640px-Mark%C3%ADza_Krimi_Logo_2022.svg.png" tvg-id="MarkizaKrimi.sk" group-title="Markíza",Markíza Krimi HD
+#EXTINF:-1 tvg-name="Markíza Krimi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mark%C3%ADza_Krimi_Logo_2022.svg/640px-Mark%C3%ADza_Krimi_Logo_2022.svg.png" tvg-id="MarkizaKrimi.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Krimi HD
+#EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://sktv.plainrock127.xyz/get.php?x=Krimi
-#EXTINF:-1 tvg-name="Markíza Klasik HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/640px-Mark%C3%ADza_Klasik.svg.png" tvg-id="MarkizaKlasik.sk" group-title="Markíza",Markíza Klasik HD
+#EXTINF:-1 tvg-name="Markíza Klasik HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/640px-Mark%C3%ADza_Klasik.svg.png" tvg-id="MarkizaKlasik.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Klasik HD
+#EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://sktv.plainrock127.xyz/get.php?x=Klasik
 
 # JOJ
