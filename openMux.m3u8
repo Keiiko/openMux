@@ -117,6 +117,10 @@ https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Krimi
 #EXTINF:-1 tvg-name="Markíza Klasik HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/640px-Mark%C3%ADza_Klasik.svg.png" tvg-id="MarkizaKlasik.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Klasik HD
 #EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Klasik
+#EXTINF:-1 tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="Markíza",Markiza Klasik FHD
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+#EXTINF:-1 tvg-id="MarkizaKrimi.sk" tvg-logo="https://i.imgur.com/5KnajhP.png" group-title="Markíza",Markiza Krimi FHD
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
 
 # JOJ
 #EXTINF:-1 tvg-name="JOJ TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_TV_JOJ_-_2020.svg/783px-Logo_TV_JOJ_-_2020.svg.png" tvg-id="JOJ.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ TV FHD
@@ -155,6 +159,10 @@ https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 # https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSFilm
+#EXTINF:-1 tvg-name="CS Horror FHD" tvg-logo="https://i.imgur.com/BAAuBB2.png" tvg-id="CSHorror.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Horror FHD
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_horror-1080.m3u8
+# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSHorror
 #EXTINF:-1 tvg-name="CS History FHD" tvg-logo="https://i.imgur.com/rtYj21D.png" tvg-id="CSHistory.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS History FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
@@ -181,16 +189,26 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-17.mazana.tv/slagrpremium.m3u8s
 #EXTINF:-1 tvg-name="Senzi HD" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Hudebni",Senzi HD
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray CMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stingray_CMusic_Logo_7.2020.svg/640px-Stingray_CMusic_Logo_7.2020.svg.png" tvg-id="StingrayCMusic.cz" group-title="Hudebni",Stingray CMusic
+http://78.130.250.2:8023/play/a022/index.m3u8
 
 # Ostatni
-#EXTINF:-1 tvg-name="TA3" tvg-id="TA3.sk" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Ostatni",TA3 
-https://santovic-test.6f.sk/sktv-forwarders/get.php?x=TA3
+#EXTINF:-1 tvg-name="HBO FHD" tvg-id="HBO.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Ostatni",HBO FHD
+http://78.130.250.2:8023/play/a02s/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo FHD" tvg-id="NatGeo.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/640px-National-Geographic-Logo.svg.png" group-title="Ostatni",Nat Geo FHD
+http://78.130.250.2:8023/play/a02e/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild FHD" tvg-id="NatGeoWild.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/512px-National_Geographic_Wild_Logo_2019.svg.png" group-title="Ostatni",National Geographic Wild FHD
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 tvg-name="Fishing and Hunting" tvg-id="FishingAndHunting.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fishing-and-hunting-logo.png/500px-Fishing-and-hunting-logo.png" group-title="Ostatni",Fishing and Hunting
+http://78.130.250.2:8023/play/a032/index.m3u8
 #EXTINF:-1 tvg-name="Minimax" tvg-id="MinimaxCEE.cz" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Ostatni",Minimax
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-name="Duck TV HD" tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Ostatni",Duck TV HD
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 #EXTINF:-1 tvg-name="Mňau TV FHD" tvg-id="MnauTV.cz" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="Ostatni",Mňau TV FHD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="TA3" tvg-id="TA3.sk" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Ostatni",TA3 
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=TA3
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.cz" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Ostatni",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.sk" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Ostatni",TV8
@@ -209,22 +227,70 @@ https://lifetv.mpks.sk/s.m3u8
 https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
 
 # Sport
+#EXTINF:-1 tvg-name="Oneplay Sport 1 FHD" tvg-id="OneplaySport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1 FHD
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:-1 tvg-name="Oneplay Sport 2 FHD" tvg-id="OneplaySport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2 FHD
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:-1 tvg-name="Nova Sport 2 FHD" tvg-id="NovaSport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_2.png" group-title="Sport",Nova Sport 2 FHD
+http://78.130.250.2:8023/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 6 FHD" tvg-id="NovaSport6.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_6.png" group-title="Sport",Nova Sport 6 FHD
+http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
+#EXTINF:-1 tvg-name="Sport 1 FHD" tvg-id="Sport1.cz" tvg-logo="https://antexplus.cz/wp-content/uploads/Sport1-logo-.png" group-title="Sport",Sport 1 FHD
+http://78.130.250.2:8023/play/a02u/index.m3u8
 #EXTINF:-1 tvg-name="Canal+ Sport FHD" tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sport",Canal+ Sport FHD
 http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="OneplaySport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1 FHD
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id="OneplaySport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2 FHD
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id="NovaSport6.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_6.png" group-title="Sport",Nova Sport 6 FHD
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id="Eurosport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="Sport",EUROSPORT 1 HD
+#EXTINF:-1 tvg-name="CANAL+ Sport 2 FHD" tvg-id="CanalPlusSport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/960px-Canal%2B_Sport_2_PL.png" group-title="Sport",CANAL+ Sport 2 FHD
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-id="Eurosport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="Sport",EUROSPORT 1 HD
 http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id="Eurosport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",EUROSPORT 2 HD
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-id="Eurosport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",EUROSPORT 2 HD
 http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id="PremierSport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1 FHD
+#EXTINF:-1 tvg-name="PREMIER SPORT 1 FHD" tvg-id="PremierSport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1 FHD
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id="PremierSport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2 FHD
+#EXTINF:-1 tvg-name="PREMIER SPORT 2 FHD" tvg-id="PremierSport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2 FHD
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+#EXTINF:-1 tvg-name="Arena Sport 1 FHD" tvg-id="ArenaSport1.cz" tvg-logo="https://arenatv.sk/wp-content/themes/arena-sport/img/logos/arena-sport-1.png" group-title="Sport",Arena Sport 1 FHD
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1 tvg-name="AutoMotorSport FHD" tvg-id="AutoMotorSport.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png" group-title="Sport",AutoMotorSport FHD
+http://78.130.250.2:8023/play/a018/index.m3u8
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="GolfChannel.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/960px-Golf_Channel_Logo.png" group-title="Sport",Golf Channel
+http://78.130.250.2:8023/play/a02q/index.m3u8
+
+# iDNES
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Praha na dlani
+https://live.idnes.cz/slow/amc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Vitznau-Rigi ve Švýcarsku
+https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Včelí úl
+https://live.idnes.cz/slow/vcely2_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Království železnic Praha (9 - 19 hodin)
+https://live.idnes.cz/slow/kralovstvizeleznic_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Praha - Smíchov
+https://live.idnes.cz/slow/vytopna_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Kutná Hora hl. n.
+https://live.idnes.cz/slow/kutnahora_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Barrandovský most
+https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Jaroměř
+https://live.idnes.cz/slow/jaromer_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Hroši - ZOO Dvůr Králové nad Labem
+https://live.idnes.cz/slow/hrosi_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Letiště Václava Havla v Praze
+https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Lední medvědi - ZOO Brno
+https://live.idnes.cz/slow/zoobrno_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Krmítko v americkém Ohiu
+https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Poslanecká sněmovna
+https://live.idnes.cz/live/pspcr_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: ČTK
+https://live.idnes.cz/live/ctk1_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 1
+https://live.idnes.cz/live/tvu2_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 2
+https://live.idnes.cz/live/tvu3_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 3
+https://live.idnes.cz/live/tvu4_720p/manifest.m3u8
 
 # MUX 21 HEVC
 #EXTINF:-1 tvg-name="ČT1 PHA HD" tvg-id="CT1.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 PHA HD
@@ -373,6 +439,8 @@ https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="Regionalni CZ",Jihočeská televize (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-id="KuryrTV.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Regionalni CZ",Kurýr TV
+https://stream-18.mazana.tv/kuryrtv.m3u8s
 #EXTINF:-1 tvg-id="OIKTV.cz" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="Regionalni CZ",OIK TV (720p)
 https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="Regionalni CZ",Plzeň TV (1080p)
@@ -385,6 +453,8 @@ https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 # https://edge.prahatv.eu/s-tv-praha/channels/live/praha-tvzm85l2hf9y-1-1/praha-tv-1-1-clear.m3u8
 #EXTINF:-1 tvg-id="RTMPlus.cz" tvg-logo="https://i.imgur.com/RNdcP2J.png" group-title="Regionalni CZ",RTM Plus (720p)
 https://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 tvg-id="RTUstecko.cz" tvg-logo="" group-title="Regionalni CZ",RT Ústecko HD
+https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
 #EXTINF:-1 tvg-id="TVBrno1.cz" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="Regionalni CZ",TV Brno 1 (1080p)
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Regionalni CZ",ÚTV (1080p)
@@ -397,8 +467,8 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 # https://www.youtube.com/watch?v=1fVzTicfyB4
 # EXTINF:-1 tvg-id="KezmarskaTV.sk" tvg-logo="" group-title="Regionalni SK",Kežmarská televízia (1080p) (TOKEN)
 # https://live.kukni.sk:8181/memfs/014dddc5-fe47-4b65-b106-947696cce305.m3u8
-#EXTINF:-1 tvg-id="Kosice.sk" tvg-name="Košice:dnes" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="Regionalni SK",Košice:dnes
-http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
+# EXTINF:-1 tvg-id="Kosice.sk" tvg-name="Košice:dnes" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="Regionalni SK",Košice:dnes
+# http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
 # EXTINF:-1 tvg-id="LubovnianskaTV.sk" tvg-logo="https://i.imgur.com/ZgHIdGn.jpg" group-title="Regionalni SK",L'ubovnianska TV (1080p) (TOKEN)
 # https://live.kukni.sk:8181/memfs/e65c8f8a-2eed-4219-99d7-46a6bc915e3c.m3u8
 #EXTINF:-1 tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Regionalni SK",MTR Ruzomberok (1080p)
