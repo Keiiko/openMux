@@ -4,95 +4,99 @@
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 # Zdroje:
-# https://sktv.plainrock127.xyz
-# https://santovic-test.6f.sk/sktv-forwarders/
 # https://github.com/santomet/sktv-forwarders
 # https://github.com/iptv-org/iptv
 # https://github.com/iptv-org/iptv/issues/17640#issuecomment-2383722484
 # https://github.com/Free-TV/IPTV
 # https://github.com/iptv-restream/IPTV
 # https://github.com/shahnewazaopu/iptv-dish-channel-free
-# https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml
 # https://www.parabola.cz/forum/topic-101821/
+# https://sultanovic.info/forum/
 
 # ČT
-#EXTINF:-1 tvg-name="ČT 1 FHD" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Česká Televize",ČT 1 FHD
+#EXTINF:-1 tvg-name="ČT 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/%C4%8CT1.svg/revision/latest/scale-to-width-down/640?cb=20121002133513" tvg-id="CT1.cz" group-title="Česká Televize",ČT 1 FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CT1
-#EXTINF:-1 tvg-name="ČT 2 FHD" tvg-logo="https://i.imgur.com/HpnGC6A.png" tvg-id="CT2.cz" group-title="Česká Televize",ČT 2 FHD
+#EXTINF:-1 tvg-name="ČT 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/%C4%8CT2.svg/revision/latest/scale-to-width-down/640?cb=20121002133514" tvg-id="CT2.cz" group-title="Česká Televize",ČT 2 FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CT2
-#EXTINF:-1 tvg-name="ČT 24 FHD" tvg-logo="https://i.imgur.com/pUMRFs1.png" tvg-id="CT24.cz" group-title="Česká Televize",ČT 24 FHD
+#EXTINF:-1 tvg-name="ČT 24 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/%C4%8CT24_2021.svg/revision/latest/scale-to-width-down/640?cb=20210505084811" tvg-id="CT24.cz" group-title="Česká Televize",ČT 24 FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CT24
-#EXTINF:-1 tvg-name="ČT Sport FHD" tvg-logo="https://i.imgur.com/I2dltZW.png" tvg-id="CTSport.cz" group-title="Česká Televize",ČT Sport FHD
+#EXTINF:-1 tvg-name="ČT Sport FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/%C4%8CT_Sport_%282013%29.svg/revision/latest/scale-to-width-down/640?cb=20200511215833" tvg-id="CTSport.cz" group-title="Česká Televize",ČT Sport FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTsport
-#EXTINF:-1 tvg-name="ČT:D FHD" tvg-logo="https://i.imgur.com/Pa5rLpA.png" tvg-id="CTD.cz" group-title="Česká Televize",ČT:D FHD
+#EXTINF:-1 tvg-name="ČT:D FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/%C4%8CT-D.svg/revision/latest/scale-to-width-down/640?cb=20130226200426" tvg-id="CTD.cz" group-title="Česká Televize",ČT:D FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CT_D
-#EXTINF:-1 tvg-name="ČT art FHD" tvg-logo="https://i.imgur.com/u8mfETB.png" tvg-id="CTart.cz" group-title="Česká Televize",ČT art FHD
+#EXTINF:-1 tvg-name="ČT art FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/%C4%8CT_Art.svg/revision/latest/scale-to-width-down/640?cb=20130226201857" tvg-id="CTart.cz" group-title="Česká Televize",ČT art FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTart
 #EXTINF:-1 tvg-name="ČT Sport Plus FHD" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="CTSportPlus.cz" group-title="Česká Televize",ČT Sport Plus FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTsportPlus
 
 # Nova
-#EXTINF:-1 tvg-name="Nova HD" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova HD
+#EXTINF:-1 tvg-name="Nova HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nova_CZ_2024.svg/revision/latest/scale-to-width-down/640?cb=20240809183433" tvg-id="Nova.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Nova
-#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" tvg-id="NovaCinema.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Cinema HD
+#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/4/44/Nova_Cinema_2024_logo.svg/revision/latest/scale-to-width-down/640?cb=20241205032949" tvg-id="NovaCinema.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Cinema HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaCinema
-#EXTINF:-1 tvg-name="Nova Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" tvg-id="NovaAction.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Action HD
+#EXTINF:-1 tvg-name="Nova Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Nova_Action_%282021%29.svg/revision/latest/scale-to-width-down/640?cb=20210815110559" tvg-id="NovaAction.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Action HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaAction
-#EXTINF:-1 tvg-name="Nova Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" tvg-id="NovaFun.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Fun HD
+#EXTINF:-1 tvg-name="Nova Fun HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Nova_Fun_%282021%29.svg/revision/latest/scale-to-width-down/640?cb=20210815110106" tvg-id="NovaFun.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Fun HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaFun
-#EXTINF:-1 tvg-name="Nova Lady HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/640px-Logo_Nova_Lady_2021.png" tvg-id="NovaLady.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Lady HD
+#EXTINF:-1 tvg-name="Nova Lady HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Nova_Lady_2021.svg/revision/latest/scale-to-width-down/640?cb=20220503155946" tvg-id="NovaLady.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Lady HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaLady
-#EXTINF:-1 tvg-name="Nova Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" tvg-id="NovaGold.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Gold HD
+#EXTINF:-1 tvg-name="Nova Gold HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Nova_Gold.svg/revision/latest/scale-to-width-down/640?cb=20171222083443" tvg-id="NovaGold.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Gold HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaGold
-#EXTINF:-1 tvg-name="TN Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo-tn-cz.png" tvg-id="tvnova.cz" group-title="Nova",TN Live FHD
+#EXTINF:-1 tvg-name="Nova TN Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo-tn-cz.png" tvg-id="tnlive.cz" group-title="Nova",Nova TN Live FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaTNLive
+#EXTINF:-1 tvg-name="Nova International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/TV_Nova_International_%282024%2C_blue_box%29.svg/revision/latest/scale-to-width-down/640?cb=20240825104432" tvg-id="NovaInternational.cz" group-title="Nova",Nova International
+http://185.236.230.212:9982/play/a0av
 
 # Prima
-#EXTINF:-1 tvg-name="Prima HD" tvg-logo="https://i.imgur.com/0aHT2Nj.png" tvg-id="Prima.cz" group-title="Prima",Prima HD
+#EXTINF:-1 tvg-name="Prima HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Prima_2013.svg/revision/latest/scale-to-width-down/640?cb=20171222083718" tvg-id="Prima.cz" group-title="Prima",Prima HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Prima
-#EXTINF:-1 tvg-name="Prima COOL HD" tvg-logo="https://i.imgur.com/JMHWmcJ.png" tvg-id="PrimaCool.cz" group-title="Prima",Prima COOL HD
+#EXTINF:-1 tvg-name="Prima COOL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Prima_Cool.svg/revision/latest/scale-to-width-down/640?cb=20171222084233" tvg-id="PrimaCool.cz" group-title="Prima",Prima COOL HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaCool
-#EXTINF:-1 tvg-name="Prima MAX HD" tvg-logo="https://i.imgur.com/QaEakvm.png" tvg-id="PrimaMax.cz" group-title="Prima",Prima MAX HD
+#EXTINF:-1 tvg-name="Prima COOL SK FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Prima_Cool_SK.svg/revision/latest/scale-to-width-down/640?cb=20240607211121" tvg-id="PrimaCoolSk.cz" group-title="Prima",Prima COOL SK FHD
+http://185.236.230.212:9981/play/a0bn
+#EXTINF:-1 tvg-name="Prima MAX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Prima_Max.svg/revision/latest/scale-to-width-down/640?cb=20191218153216" tvg-id="PrimaMax.cz" group-title="Prima",Prima MAX HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaMax
-#EXTINF:-1 tvg-name="Prima ZOOM HD" tvg-logo="https://i.imgur.com/zuzBucZ.png" tvg-id="PrimaZoom.cz" group-title="Prima",Prima ZOOM HD
+#EXTINF:-1 tvg-name="Prima ZOOM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Prima_Zoom.svg/revision/latest/scale-to-width-down/640?cb=20191217083431" tvg-id="PrimaZoom.cz" group-title="Prima",Prima ZOOM HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaZoom
-#EXTINF:-1 tvg-name="Prima Love HD" tvg-logo="https://i.imgur.com/TOCZc3Y.png" tvg-id="PrimaLove.cz" group-title="Prima",Prima Love HD
+#EXTINF:-1 tvg-name="Prima Love HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Prima_Love_%282011%29.svg/revision/latest/scale-to-width-down/640?cb=20200125185502" tvg-id="PrimaLove.cz" group-title="Prima",Prima Love HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaLove
-#EXTINF:-1 tvg-name="Prima Krimi HD" tvg-logo="https://i.imgur.com/Dn2YxrA.png" tvg-id="PrimaKrimi.cz" group-title="Prima",Prima Krimi HD
+#EXTINF:-1 tvg-name="Prima Love SK FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Prima_Love_SK.svg/revision/latest/scale-to-width-down/640?cb=20240607211137" tvg-id="PrimaLoveSk.cz" group-title="Prima",Prima Love SK HD
+http://185.236.230.212:9981/play/a0bo
+#EXTINF:-1 tvg-name="Prima Krimi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Prima_Krimi.svg/revision/latest/scale-to-width-down/640?cb=20191218151944" tvg-id="PrimaKrimi.cz" group-title="Prima",Prima Krimi HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaKrimi
-#EXTINF:-1 tvg-name="Prima STAR HD" tvg-logo="https://i.imgur.com/tQGwvNs.png" tvg-id="PrimaStar.cz" group-title="Prima",Prima STAR HD
+#EXTINF:-1 tvg-name="Prima STAR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Prima_Star.svg/revision/latest/scale-to-width-down/640?cb=20210624140419" tvg-id="PrimaStar.cz" group-title="Prima",Prima STAR HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaStar
-#EXTINF:-1 tvg-name="Prima Show HD" tvg-logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" group-title="Prima",Prima Show HD
+#EXTINF:-1 tvg-name="Prima Show HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Prima_Show.svg/revision/latest/scale-to-width-down/640?cb=20211030125816" tvg-id="PrimaShow.cz" group-title="Prima",Prima Show HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaShow
 # EXTINF:-1 tvg-name="Prima Show HD" tvg-logo="" tvg-id="PrimaCase.cz" group-title="Prima",Prima CASE HD
 # https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaCase
 # EXTINF:-1 tvg-name="Prima Show HD" tvg-logo="" tvg-id="PrimaPort.cz" group-title="Prima",Prima PORT HD
 # https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaPort
-#EXTINF:-1 tvg-name="CNN Prima News HD" tvg-logo="https://i.imgur.com/Il7t0bU.png" tvg-id="CNNPrimaNews.cz" group-title="Prima",CNN Prima News HD
+#EXTINF:-1 tvg-name="CNN Prima News HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/CNN_Prima_News.svg/revision/latest/scale-to-width-down/640?cb=20200502094041" tvg-id="CNNPrimaNews.cz" group-title="Prima",CNN Prima News HD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaNews
 
 # Barrandov
-# EXTINF:-1 tvg-name="TV Barrandov" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TV_Barrandov_logo_2025.png/960px-TV_Barrandov_logo_2025.png" tvg-id="BarrandovTV.cz" group-title="Barrandov",TV Barrandov
-# 
-# EXTINF:-1 tvg-name="Barrandov Kino" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kino_Barrandov_logo_2025.png/960px-Kino_Barrandov_logo_2025.png" tvg-id="BarrandovKino.cz" group-title="Barrandov",Barrandov Kino
-# 
-# EXTINF:-1 tvg-name="Barrandov Krimi" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Krimi_Barrandov_logo_2025.png/960px-Krimi_Barrandov_logo_2025.png" tvg-id="BarrandovKrimi.cz" group-title="Barrandov",Barrandov Krimi
-# 
+#EXTINF:-1 tvg-name="TV Barrandov" logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/TV_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002815" tvg-id="BarrandovTV.cz" group-title="Barrandov",TV Barrandov
+http://185.236.230.212:9982/play/a08k
+#EXTINF:-1 tvg-name="Kino Barrandov" logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Kino_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002851" tvg-id="BarrandovKino.cz" group-title="Barrandov",Kino Barrandov
+http://185.236.230.212:9982/play/a08l
+#EXTINF:-1 tvg-name="Barrandov Krimi" logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Krimi_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002918" tvg-id="BarrandovKrimi.cz" group-title="Barrandov",Barrandov Krimi
+http://185.236.230.212:9982/play/a08m
 
 # STVR
-#EXTINF:-1 tvg-name="Jednotka FHD" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="STVR",Jednotka FHD
+#EXTINF:-1 tvg-name="Jednotka FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Jednotka.svg/revision/latest/scale-to-width-down/640?cb=20210201182923" tvg-id="Jednotka.sk" group-title="STVR",Jednotka FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=STV1
-#EXTINF:-1 tvg-name="Dvojka FHD" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="STVR",Dvojka FHD
+#EXTINF:-1 tvg-name="Dvojka FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Dvojka.svg/revision/latest/scale-to-width-down/640?cb=20210201180438" tvg-id="Dvojka.sk" group-title="STVR",Dvojka FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=STV2
-#EXTINF:-1 tvg-name="RTVS 24 FHD" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="STVR",RTVS 24 FHD
+#EXTINF:-1 tvg-name="RTVS 24 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/RTVS_24_%282022%29.svg/revision/latest/scale-to-width-down/640?cb=20220409103623" tvg-id="24.sk" group-title="STVR",RTVS 24 FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=STV24
-#EXTINF:-1 tvg-name="RTVS Šport FHD" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" group-title="STVR",RTVS Šport FHD
+#EXTINF:-1 tvg-name="RTVS Šport FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/RTVS_%C5%A0port_%282021%29.svg/revision/latest/scale-to-width-down/640?cb=20220409134017" tvg-id="Sport.sk" group-title="STVR",RTVS Šport FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=SPORT
 #EXTINF:-1 tvg-name="RTVS O FHD" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="STVR",RTVS O FHD
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=STV-O
@@ -102,84 +106,153 @@ https://santovic-test.6f.sk/sktv-forwarders/get.php?x=RTVS
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NR_SR
 
 # Markiza
-#EXTINF:-1 tvg-name="Markíza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/640px-Mark%C3%ADza_%282022%29.svg.png" tvg-id="Markiza.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza HD
+#EXTINF:-1 tvg-name="Markíza HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mark%C3%ADza_%282022%29_II.svg/revision/latest/scale-to-width-down/640?cb=20220811144114" tvg-id="Markiza.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza HD
 #EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Markiza
-#EXTINF:-1 tvg-name="Dajto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mark%C3%ADza_Dajto_%282022%29.svg/640px-Mark%C3%ADza_Dajto_%282022%29.svg.png" tvg-id="Dajto.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Dajto HD
+#EXTINF:-1 tvg-name="Dajto HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Mark%C3%ADza_Dajto_%282022%29.svg/revision/latest/scale-to-width-down/640?cb=20220810103321" tvg-id="Dajto.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Dajto HD
 #EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Dajto
-#EXTINF:-1 tvg-name="Doma HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mark%C3%ADza_Doma_%282022%29.svg/640px-Mark%C3%ADza_Doma_%282022%29.svg.png" tvg-id="Doma.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Doma HD
+#EXTINF:-1 tvg-name="Doma HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Mark%C3%ADza_Doma_%282022%29.svg/revision/latest/scale-to-width-down/640?cb=20220810101429" tvg-id="Doma.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Doma HD
 #EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Doma
-#EXTINF:-1 tvg-name="Markíza Krimi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mark%C3%ADza_Krimi_Logo_2022.svg/640px-Mark%C3%ADza_Krimi_Logo_2022.svg.png" tvg-id="MarkizaKrimi.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Krimi HD
+#EXTINF:-1 tvg-name="Markíza Krimi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Mark%C3%ADza_Krimi.svg/revision/latest/scale-to-width-down/640?cb=20220503125338" tvg-id="MarkizaKrimi.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Krimi HD
 #EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Krimi
-#EXTINF:-1 tvg-name="Markíza Klasik HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/640px-Mark%C3%ADza_Klasik.svg.png" tvg-id="MarkizaKlasik.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Klasik HD
+#EXTINF:-1 tvg-name="Markíza Klasik HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Mark%C3%ADza_Klasik_orange.svg/revision/latest/scale-to-width-down/640?cb=20240607214836" tvg-id="MarkizaKlasik.sk" group-title="Markíza" http-referrer="https://media.cms.markiza.sk/",Markíza Klasik HD
 #EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Klasik
-#EXTINF:-1 tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="Markíza",Markiza Klasik FHD
-https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
-#EXTINF:-1 tvg-id="MarkizaKrimi.sk" tvg-logo="https://i.imgur.com/5KnajhP.png" group-title="Markíza",Markiza Krimi FHD
-https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+#EXTINF:-1 tvg-name="Markíza TN Live HD" tvg-logo="https://cmesk-ott-images-tvnoviny.ssl.cdn.cra.cz/1612ed54-2b03-4982-a141-884afa873a80" tvg-id="tnlive.sk" group-title="Markíza",Markíza TN Live FHD
+#EXTVLCOPT:http-referrer=https://media.cms.markiza.sk/
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=MarkizaTNLive
+#EXTINF:-1 tvg-name="Markíza International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/640?cb=20220811142013" tvg-id="MarkizaInternational.sk" group-title="Markíza International",Markíza International
+http://185.236.230.212:9981/play/a0bi
 
 # JOJ
-#EXTINF:-1 tvg-name="JOJ TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_TV_JOJ_-_2020.svg/783px-Logo_TV_JOJ_-_2020.svg.png" tvg-id="JOJ.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ TV FHD
+#EXTINF:-1 tvg-name="JOJ TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Tv_joj_2020.svg/revision/latest/scale-to-width-down/640?cb=20211007202054" tvg-id="JOJ.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ TV FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJ
-#EXTINF:-1 tvg-name="JOJ Plus FHD" tvg-logo="https://i.imgur.com/1LHa0EI.png" tvg-id="JOJPlus.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Plus FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJ
+#EXTINF:-1 tvg-name="JOJ Plus FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/JOJ_Plus_2020.svg/revision/latest/scale-to-width-down/640?cb=20201005165235" tvg-id="JOJPlus.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Plus FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJP
-#EXTINF:-1 tvg-name="JOJ WAU FHD" tvg-logo="https://i.imgur.com/j51uAjL.png" tvg-id="JOJWAU.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",WAU FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJP
+#EXTINF:-1 tvg-name="JOJ WAU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/JOJ_WAU.svg/revision/latest/scale-to-width-down/640?cb=20220707180941" tvg-id="JOJWAU.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",WAU FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Wau
-#EXTINF:-1 tvg-name="JOJ Family FHD" tvg-logo="https://i.imgur.com/k1COMHi.png" tvg-id="JOJFamily.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Family FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Wau
+#EXTINF:-1 tvg-name="JOJ Family FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/JOJ_Family.svg/revision/latest/scale-to-width-down/640?cb=20191223145947" tvg-id="JOJFamily.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Family FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/family-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJFamily
-#EXTINF:-1 tvg-name="JOJ Cinema FHD" tvg-logo="https://i.imgur.com/5Auduch.png" tvg-id="JOJCinema.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Cinema FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJFamily
+#EXTINF:-1 tvg-name="JOJ Cinema FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/JOJ_Cinema.svg/revision/latest/scale-to-width-down/640?cb=20191223151950" tvg-id="JOJCinema.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Cinema FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJCinema
-#EXTINF:-1 tvg-name="JOJ24 FHD" tvg-logo="https://i.imgur.com/Tv12wOd.png" tvg-id="JOJ24.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ24 FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJCinema
+#EXTINF:-1 tvg-name="JOJ24 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/JOJ_24.svg/revision/latest/scale-to-width-down/640?cb=20221005075455" tvg-id="JOJ24.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ24 FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJ24
-#EXTINF:-1 tvg-name="JOJ Šport FHD" tvg-logo="https://i.imgur.com/KirqaU4.png" tvg-id="JOJSport.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Šport FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJ24
+#EXTINF:-1 tvg-name="JOJ Šport FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/JOJ_%C5%A0port.svg/revision/latest/scale-to-width-down/640?cb=20220424155042" tvg-id="JOJSport.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",JOJ Šport FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJSport
-#EXTINF:-1 tvg-name="Jojko FHD" tvg-logo="https://i.imgur.com/JBB1n1Z.png" tvg-id="Jojko.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",Jojko FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJSport
+#EXTINF:-1 tvg-name="Jojko FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Jojko.svg/revision/latest/scale-to-width-down/640?cb=20230817052858" tvg-id="Jojko.sk" group-title="JOJ" http-referrer="https://media.joj.sk/",Jojko FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Jojko
-#EXTINF:-1 tvg-name="CS Film FHD" tvg-logo="https://i.imgur.com/BAAuBB2.png" tvg-id="CSFilm.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Film FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Jojko
+#EXTINF:-1 tvg-name="CS Film FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/CS_Film_2019.svg/revision/latest/scale-to-width-down/640?cb=20211008132200" tvg-id="CSFilm.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Film FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSFilm
-#EXTINF:-1 tvg-name="CS Horror FHD" tvg-logo="https://i.imgur.com/BAAuBB2.png" tvg-id="CSHorror.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Horror FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSFilm
+#EXTINF:-1 tvg-name="CS Horror FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/CS_Horror.svg/revision/latest/scale-to-width-down/640?cb=20211114163431" tvg-id="CSHorror.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Horror FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/cs_horror-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSHorror
-#EXTINF:-1 tvg-name="CS History FHD" tvg-logo="https://i.imgur.com/rtYj21D.png" tvg-id="CSHistory.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS History FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSHorror
+#EXTINF:-1 tvg-name="CS History FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/CS_History.svg/revision/latest/scale-to-width-down/640?cb=20211008132031" tvg-id="CSHistory.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS History FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSHistory
-#EXTINF:-1 tvg-name="CS Mystery FHD" tvg-logo="https://i.imgur.com/3cFbkUj.png" tvg-id="CSMystery.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Mystery FHD
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSHistory
+#EXTINF:-1 tvg-name="CS Mystery FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/CS_Mystery.svg/revision/latest/scale-to-width-down/640?cb=20210627161832" tvg-id="CSMystery.cz" group-title="JOJ" http-referrer="https://media.joj.sk/",CS Mystery FHD
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
-# https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSMystery
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CSMystery
+
+# Filmove
+#EXTINF:-1 tvg-name="HBO FHD" tvg-id="HBO.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/640?cb=20201126030141" group-title="Filmove",HBO FHD
+http://185.236.230.212:9982/play/a081
+#EXTINF:-1 tvg-name="HBO 2 FHD" tvg-id="HBO2.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/HBO_2_2016.svg/revision/latest/scale-to-width-down/640?cb=20171217110043" group-title="Filmove",HBO 2 FHD
+http://185.236.230.212:9982/play/a08r
+#EXTINF:-1 tvg-name="HBO 3 FHD" tvg-id="HBO3.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/HBO_3_2016.svg/revision/latest/scale-to-width-down/640?cb=20171217110508" group-title="Filmove",HBO 3 FHD
+http://185.236.230.212:9982/play/a08s
+#EXTINF:-1 tvg-name="Cinemax FHD" tvg-id="Cinemax.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/640?cb=20171203110447" group-title="Filmove",Cinemax FHD
+http://185.236.230.212:9981/play/a0c0
+#EXTINF:-1 tvg-name="Cinemax 2 FHD" tvg-id="Cinemax2.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Cinemax_2_%282016%29.svg/revision/latest/scale-to-width-down/640?cb=20171214103515" group-title="Filmove",Cinemax 2 FHD
+http://185.236.230.212:9982/play/a08u
+#EXTINF:-1 tvg-name="AMC" tvg-id="AMC.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/AMC_%282019%29_%28White%29.svg/revision/latest/scale-to-width-down/640?cb=20230124163338" group-title="Filmove",AMC
+http://178.23.88.55/AMC/index.m3u8
+#EXTINF:-1 tvg-name="Filmbox FHD" tvg-id="Filmbox.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/FilmBox_%282013%29.svg/revision/latest/scale-to-width-down/640?cb=20171210164446" group-title="Filmove",Filmbox FHD
+http://185.236.230.212:9981/play/a0ax
+#EXTINF:-1 tvg-name="Filmbox Family FHD" tvg-id="FilmboxFamily.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/FilmBox_Family_%282013%29.svg/revision/latest/scale-to-width-down/640?cb=20171210175502" group-title="Filmove",Filmbox Family FHD
+http://185.236.230.212:9981/play/a0c5
+#EXTINF:-1 tvg-name="Filmbox Extra FHD" tvg-id="FilmboxExtra.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/FilmBox_Extra_HD.svg/revision/latest/scale-to-width-down/640?cb=20171210164807" group-title="Filmove",Filmbox Extra FHD
+http://185.236.230.212:9981/play/a0c2
+#EXTINF:-1 tvg-name="Filmbox Premium HD" tvg-id="FilmboxPremium.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FilmBox_Premium.svg/revision/latest/scale-to-width-down/640?cb=20191219183434" group-title="Filmove",Filmbox Premium HD
+http://185.236.230.212:9982/play/a08t
+#EXTINF:-1 tvg-name="Filmbox Stars" tvg-id="FilmboxStars.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/FilmBox_Stars.svg/revision/latest/scale-to-width-down/640?cb=20200901135021" group-title="Filmove",Filmbox Stars
+http://185.236.230.212:9982/play/a08x
+#EXTINF:-1 tvg-name="Film+ FHD" tvg-id="FilmPlus.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Film_Plus_CZ_2023.svg/revision/latest/scale-to-width-down/640?cb=20240621155319" group-title="Filmove",Film+ FHD
+http://185.236.230.212:9982/play/a08q
+#EXTINF:-1 tvg-name="Film+ SK" tvg-id="FilmPlus.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Film_Plus_CZ_2023.svg/revision/latest/scale-to-width-down/640?cb=20240621155319" group-title="Filmove",Film+ SK
+http://185.236.230.212:9981/play/a0ba
+#EXTINF:-1 tvg-name="Film Europe FHD" tvg-id="FilmEurope.cz" tvg-logo="https://www.kuki.cz/media/cache/53/72/5372810a16b779b2b6da1c08904d34f2.png" group-title="Filmove",Film Europe FHD
+http://185.236.230.212:9981/play/a0c1
+#EXTINF:-1 tvg-name="Film Europe+ FHD" tvg-id="FilmEuropePlus.cz" tvg-logo="https://www.kuki.cz/media/cache/8d/5f/8d5f2519fb7de0d7183d4f847f3ab6f0.png" group-title="Filmove",Film Europe+ FHD
+http://185.236.230.212:9982/play/a08v
+#EXTINF:-1 tvg-name="Canal+ Action FHD" tvg-id="CanalAction.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Canal%2B_Action_CZ%26SK_2024.svg/revision/latest/scale-to-width-down/640?cb=20250304184641" group-title="Filmove",Canal+ Action FHD
+http://185.236.230.212:9981/play/a0bw
+
+# Serialove
+#EXTINF:-1 tvg-name="AXN" tvg-id="AXN.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/640?cb=20201126064846" group-title="Serialove",AXN
+http://185.236.230.212:9982/play/a08e
+#EXTINF:-1 tvg-name="AXN Black" tvg-id="AXNBlack.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/AXN_Black_logo_%282015%29.svg/revision/latest/scale-to-width-down/640?cb=20170722220510" group-title="Serialove",AXN Black
+http://185.236.230.212:9982/play/a094
+#EXTINF:-1 tvg-name="AXN White" tvg-id="AXNWhite.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/AXN_White_logo_%282015%29.svg/revision/latest/scale-to-width-down/640?cb=20180914131151" group-title="Serialove",AXN White
+http://185.236.230.212:9982/play/a095
+#EXTINF:-1 tvg-name="Epic Drama FHD" tvg-id="EpicDrama.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Epic_Drama_2018.svg/revision/latest/scale-to-width-down/640?cb=20191113170018" group-title="Serialove",Epic Drama FHD
+http://185.236.230.212:9981/play/a0bg
+#EXTINF:-1 tvg-name="Story4 FHD" tvg-id="Story4.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Story4_%28Hungary%29_%282018%29.svg/revision/latest/scale-to-width-down/640?cb=20200127160919" group-title="Serialove",Story4 FHD
+http://185.236.230.212:9982/play/a08w
+#EXTINF:-1 tvg-name="Paramount Network" tvg-id="ParamountNetwork.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Paramount_Network_Logo_2022.svg/640px-Paramount_Network_Logo_2022.svg.png" group-title="Serialove",Paramount Network
+http://185.236.230.212:9981/play/a0as
+
+# Dokumentarni
+#EXTINF:-1 tvg-name="Spektrum FHD" tvg-id="Spektrum.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Spektrum_%282020%29.svg/revision/latest/scale-to-width-down/640?cb=20200804145203" group-title="Dokumentarni",Spektrum FHD
+http://178.23.88.55/Spektrum/index.m3u8
+#EXTINF:0 tvg-name="Discovery FHD" tvg-id="Discovery.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/640?cb=20210519155203" group-title="Dokumentarni",Discovery FHD
+https://cdnsk003.panaccess.com/local/Discovery/index.m3u8
+#EXTINF:0 tvg-name="ID FHD" tvg-id="ID.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Dicovery_ID.svg/revision/latest/scale-to-width-down/640?cb=20240706210910" group-title="Dokumentarni",ID FHD
+https://cdnsk003.panaccess.com/local/ID/index.m3u8
+#EXTINF:-1 tvg-name="History HD" tvg-id="History.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/640?cb=20240302050750" group-title="Dokumentarni",History HD
+http://178.23.88.55/History/index.m3u8
+#EXTINF:0 tvg-name="TLC FHD" tvg-id="TLC.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest/scale-to-width-down/640?cb=20220703193228" group-title="Dokumentarni",TLC FHD
+https://cdnsk003.panaccess.com/local/TLC/index.m3u8
+#EXTINF:-1 tvg-name="Viasat History FHD" tvg-id="ViasatHistory.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Viasat_History_2022.svg/revision/latest/scale-to-width-down/640?cb=20220119212113" group-title="Dokumentarni",Viasat History FHD
+http://185.236.230.212:9982/play/a08o
+#EXTINF:-1 tvg-name="Viasat Nature FHD" tvg-id="ViasatNature.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Viasat_Nature_2022.svg/revision/latest/scale-to-width-down/640?cb=20220119211909" group-title="Dokumentarni",Viasat Nature FHD
+http://185.236.230.212:9982/play/a08p
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="ViasatExplore.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Viasat_Explore_2022.svg/revision/latest/scale-to-width-down/640?cb=20220119212514" group-title="Dokumentarni",Viasat Explore
+http://178.23.88.55/Viasat_Explorer/index.m3u8
+#EXTINF:-1 tvg-name="TV SPARK" tvg-id="TVSpark.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TV_Spark_2024.svg/revision/latest/scale-to-width-down/640?cb=20250325140504" group-title="Dokumentarni",TV SPARK
+http://185.236.230.212:9982/play/a092
+
+# Prirodopisne
+#EXTINF:-1 tvg-name="Nat Geo FHD" tvg-id="NatGeo.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/640?cb=20170701154034" group-title="Prirodopisne",Nat Geo FHD
+http://185.236.230.212:9982/play/a07w
+#EXTINF:-1 tvg-name="National Geographic Wild FHD" tvg-id="NatGeoWild.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/640?cb=20180903172554" group-title="Prirodopisne",National Geographic Wild FHD
+http://185.236.230.212:9982/play/a07z
+#EXTINF:-1 tvg-name="Love Nature FHD" tvg-id="LoveNature.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Love_Nature_%282025%29.svg/revision/latest/scale-to-width-down/640?cb=20250206095703" group-title="Prirodopisne",Love Nature FHD
+http://185.236.230.212:9982/play/a089
+#EXTINF:-1 tvg-name="Fishing and Hunting" tvg-id="FishingAndHunting.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fishing-and-hunting-logo.png/500px-Fishing-and-hunting-logo.png" group-title="Prirodopisne",Fishing and Hunting
+http://185.236.230.212:9982/play/a08d
+#EXTINF:-1 tvg-name="DOCUBOX" tvg-id="DocuBox.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/DocuBox_%282013%29.svg/revision/latest/scale-to-width-down/640?cb=20171210215646" group-title="Prirodopisne",DOCUBOX
+http://185.236.230.212:9981/play/a0ar
 
 # Hudebni
-#EXTINF:-1 tvg-name="Óčko" tvg-logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" group-title="Hudebni",Óčko
+#EXTINF:-1 tvg-name="Óčko" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/%C3%93%C4%8Dko_logo_2012.svg/revision/latest/scale-to-width-down/640?cb=20121008132329" tvg-id="Ocko.cz" group-title="Hudebni",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Star" tvg-logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" group-title="Hudebni",Óčko Star
+#EXTINF:-1 tvg-name="Óčko Star" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/%C3%93%C4%8Dko_Star.svg/revision/latest/scale-to-width-down/640?cb=20210627155448" tvg-id="OckoStar.cz" group-title="Hudebni",Óčko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Expres" tvg-logo="https://i.imgur.com/e731JNS.png" tvg-id="OckoExpres.cz" group-title="Hudebni",Óčko Expres
+#EXTINF:-1 tvg-name="Óčko Expres" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/%C3%93%C4%8Dko_Expres.svg/revision/latest/scale-to-width-down/640?cb=20210627160202" tvg-id="OckoExpres.cz" group-title="Hudebni",Óčko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="Hudebni",Retro Music TV
+#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Retro_Music_Television_2013.svg/revision/latest/scale-to-width-down/640?cb=20210627161000" tvg-id="RetroMusicTV.cz" group-title="Hudebni",Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-name="Šlágr Originál" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/slager-1.png" tvg-id="SlagrOriginal.cz" group-title="Hudebni",Šlágr Originál
 https://stream-13.mazana.tv/slagroriginal.m3u8s
@@ -189,41 +262,65 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-17.mazana.tv/slagrpremium.m3u8s
 #EXTINF:-1 tvg-name="Senzi HD" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Hudebni",Senzi HD
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Stingray CMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stingray_CMusic_Logo_7.2020.svg/640px-Stingray_CMusic_Logo_7.2020.svg.png" tvg-id="StingrayCMusic.cz" group-title="Hudebni",Stingray CMusic
-http://78.130.250.2:8023/play/a022/index.m3u8
+#EXTINF:-1 tvg-name="Stingray CMusic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Stingray_CMusic.svg/revision/latest/scale-to-width-down/640?cb=20191208130541" tvg-id="StingrayCMusic.cz" group-title="Hudebni",Stingray CMusic
+http://185.236.230.212:9982/play/a088
+
+# Detske
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="DisneyChannel.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg/revision/latest/scale-to-width-down/640?cb=20220702062636" group-title="Detske",Disney Channel
+http://178.23.88.55/Disney/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="CartoonNetwork.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/640?cb=20210726224754" group-title="Detske",Cartoon Network
+http://178.23.88.55/CN/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito" tvg-id="Cartoonito.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest/scale-to-width-down/640?cb=20211112214721" group-title="Detske",Cartoonito
+http://178.23.88.55/Boomerang/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/640?cb=20180306141612" group-title="Detske",Nickelodeon
+http://185.236.230.212:9981/play/a0co
+#EXTINF:-1 tvg-name="Nicktoons" tvg-id="Nicktoons.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Nicktoons_2023_Logo.svg/revision/latest/scale-to-width-down/640?cb=20240724194938" group-title="Detske",Nicktoons
+http://185.236.230.212:9981/play/a0b9
+#EXTINF:-1 tvg-name="Nick Jr." tvg-id="NickJr.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest/scale-to-width-down/640?cb=20240601030018" group-title="Detske",Nick Jr.
+http://185.236.230.212:9981/play/a0b4
+#EXTINF:-1 tvg-name="Minimax" tvg-id="Minimax.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Minimax_2021.png/revision/latest/scale-to-width-down/640?cb=20210701112736" group-title="Detske",Minimax
+http://185.236.230.212:9982/play/a08z
+#EXTINF:-1 tvg-name="JimJam" tvg-id="JimJam.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest?/scale-to-width-down/640cb=20180723182655" group-title="Detske",JimJam
+http://185.236.230.212:9981/play/a0c6
+#EXTINF:-1 tvg-name="Duck TV HD" tvg-id="DuckTv.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest/scale-to-width-down/640?cb=20191212111607" group-title="Detske",Duck TV HD
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+#EXTINF:-1 tvg-name="LALA TV" tvg-id="LalaTv.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/LaLa_TV_SK.svg/revision/latest/scale-to-width-down/640?cb=20250506162514" group-title="Detske",LALA TV
+http://185.236.230.212:9981/play/a0by
+
+# Livestyle
+#EXTINF:-1 tvg-name="Spektrum Home" tvg-id="SpektrumHome.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Spektrum_Home_%282020%29.svg/revision/latest/scale-to-width-down/640?cb=20200804145616" group-title="Livestyle",Spektrum Home
+http://185.236.230.212:9981/play/a0b8
+#EXTINF:-1 tvg-name="Paprika TV" tvg-id="Paprika.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv-paprika-logo-2021.svg/revision/latest/scale-to-width-down/640?cb=20210901154706" group-title="Livestyle",Paprika TV
+http://185.236.230.212:9981/play/a0be
+#EXTINF:-1 tvg-name="Mnam TV" tvg-id="MnamTv.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/M%C5%88am_TV.svg/revision/latest/scale-to-width-down/640?cb=20210627163800" group-title="Livestyle",Mnam TV
+http://185.236.230.212:9982/play/a08y
+#EXTINF:-1 tvg-name="MTV Europe" tvg-id="MTVEurope.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/MTV-2021.svg/revision/latest/scale-to-width-down/640?cb=20210924193722" group-title="Livestyle",MTV Europe
+http://178.23.88.55/MTV/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/640?cb=20191026175440" group-title="Livestyle",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 # Ostatni
-#EXTINF:-1 tvg-name="HBO FHD" tvg-id="HBO.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Ostatni",HBO FHD
-http://78.130.250.2:8023/play/a02s/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo FHD" tvg-id="NatGeo.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/640px-National-Geographic-Logo.svg.png" group-title="Ostatni",Nat Geo FHD
-http://78.130.250.2:8023/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Wild FHD" tvg-id="NatGeoWild.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/512px-National_Geographic_Wild_Logo_2019.svg.png" group-title="Ostatni",National Geographic Wild FHD
-http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 tvg-name="Fishing and Hunting" tvg-id="FishingAndHunting.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fishing-and-hunting-logo.png/500px-Fishing-and-hunting-logo.png" group-title="Ostatni",Fishing and Hunting
-http://78.130.250.2:8023/play/a032/index.m3u8
-#EXTINF:-1 tvg-name="Minimax" tvg-id="MinimaxCEE.cz" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Ostatni",Minimax
-http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 tvg-name="Duck TV HD" tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Ostatni",Duck TV HD
-https://jmp2.uk/sam-ESBC4700001GR.m3u8
-#EXTINF:-1 tvg-name="Mňau TV FHD" tvg-id="MnauTV.cz" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="Ostatni",Mňau TV FHD
+#EXTINF:-1 tvg-name="Seznam TV FHD" tvg-id="Seznam.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Televize_Seznam_2018.png/revision/latest/scale-to-width-down/640?cb=20201114222642" group-title="Ostatni",Seznam TV FHD
+http://185.236.230.212:9981/play/a0cn
+#EXTINF:-1 tvg-name="Mňau TV FHD" tvg-id="MnauTV.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/M%C5%88au_TV.svg/revision/latest/scale-to-width-down/640?cb=20210627165425" group-title="Ostatni",Mňau TV FHD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="TA3" tvg-id="TA3.sk" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Ostatni",TA3 
+#EXTINF:-1 tvg-name="TA3" tvg-id="TA3.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/TA3_2021_SVG.svg/revision/latest/scale-to-width-down/640?cb=20220501120542" group-title="Ostatni",TA3
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=TA3
-#EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.cz" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Ostatni",Fashion TV
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.sk" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Ostatni",TV8
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN.int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/640?cb=20250315005934" group-title="Ostatni",CNN
+http://178.23.88.55/CNN/index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/640?cb=20250315005934" group-title="Ostatni",TV8
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 
 # Nabozenske
-#EXTINF:-1 tvg-name="TV NOE HD" tvg-id="TVNoe.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/512px-Noe-logo-2016.png" group-title="Nabozenske",TV NOE HD
+#EXTINF:-1 tvg-name="TV NOE HD" tvg-id="TVNoe.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/TV_NOE_logo.svg/revision/latest/scale-to-width-down/640?cb=20100526200617" group-title="Nabozenske",TV NOE HD
 https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="TV NOE+ HD" tvg-id="TVNoePlus.cz" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="Nabozenske",TV NOE+ HD
 https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="TV Lux FHD" tvg-id="Lux.sk" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" group-title="Nabozenske",TV Lux FHD
+#EXTINF:-1 tvg-name="TV Lux FHD" tvg-id="Lux.sk" tvg-logo="https://www.tvlux.sk/media/2023/10/652f9ed739018103555424_televizia-lux_biele-priehladne.png" group-title="Nabozenske",TV Lux FHD
 http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="LifeTv FHD" tvg-id="LifeTv.sk" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Nabozenske",LifeTv FHD
 https://lifetv.mpks.sk/s.m3u8
-#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Nabozenske",Maná Cirkev Online (1080p)
+#EXTINF:-1 tvg-name="Maná Cirkev Online FHD" tvg-id="ManaCirkevOnline.sk" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Nabozenske",Maná Cirkev Online FHD
 https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
 
 # Sport
@@ -231,66 +328,58 @@ https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
 http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-name="Oneplay Sport 2 FHD" tvg-id="OneplaySport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2 FHD
 http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:-1 tvg-name="Nova Sport 1 FHD" tvg-id="NovaSport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_1.png" group-title="Sport",Nova Sport 1 FHD
+http://178.23.88.55/Nova_Sport/index.m3u8
 #EXTINF:-1 tvg-name="Nova Sport 2 FHD" tvg-id="NovaSport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_2.png" group-title="Sport",Nova Sport 2 FHD
 http://78.130.250.2:8023/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 3 FHD" tvg-id="NovaSport3.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_3.png" group-title="Sport",Nova Sport 3 FHD
+http://185.236.230.212:9981/play/a0au
+#EXTINF:-1 tvg-name="Nova Sport 4 FHD" tvg-id="NovaSport4.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_4.png" group-title="Sport",Nova Sport 4 FHD
+http://185.236.230.212:9981/play/a0av
+#EXTINF:-1 tvg-name="Nova Sport 5 CZ FHD" tvg-id="NovaSport5.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_5.png" group-title="Sport",Nova Sport 5 CZ FHD
+http://185.236.230.212:9981/play/a0bq
+#EXTINF:-1 tvg-name="Nova Sport 5 SK FHD" tvg-id="NovaSport5.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_5.png" group-title="Sport",Nova Sport 5 SK FHD
+http://185.236.230.212:9982/play/a09w
 #EXTINF:-1 tvg-name="Nova Sport 6 FHD" tvg-id="NovaSport6.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_6.png" group-title="Sport",Nova Sport 6 FHD
 http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-name="Sport 1 FHD" tvg-id="Sport1.cz" tvg-logo="https://antexplus.cz/wp-content/uploads/Sport1-logo-.png" group-title="Sport",Sport 1 FHD
-http://78.130.250.2:8023/play/a02u/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport FHD" tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sport",Canal+ Sport FHD
+#EXTINF:-1 tvg-name="Sport 1 FHD" tvg-id="Sport1.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Sport1_CEE_%282020-present%29.svg/revision/latest/scale-to-width-down/640?cb=20201006083547" group-title="Sport",Sport 1 FHD
+http://185.236.230.212:9981/play/a0cg
+#EXTINF:-1 tvg-name="CANAL+ Sport FHD" tvg-id="CanalPlusSport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport FHD
 http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 2 FHD" tvg-id="CanalPlusSport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/960px-Canal%2B_Sport_2_PL.png" group-title="Sport",CANAL+ Sport 2 FHD
+#EXTINF:-1 tvg-name="CANAL+ Sport 2 FHD" tvg-id="CanalPlusSport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="Sport",CANAL+ Sport 2 FHD
 http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-id="Eurosport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="Sport",EUROSPORT 1 HD
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-id="Eurosport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",EUROSPORT 2 HD
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:-1 tvg-name="PREMIER SPORT 1 FHD" tvg-id="PremierSport1.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1 FHD
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
 #EXTINF:-1 tvg-name="PREMIER SPORT 2 FHD" tvg-id="PremierSport2.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2 FHD
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-#EXTINF:-1 tvg-name="Arena Sport 1 FHD" tvg-id="ArenaSport1.cz" tvg-logo="https://arenatv.sk/wp-content/themes/arena-sport/img/logos/arena-sport-1.png" group-title="Sport",Arena Sport 1 FHD
+#EXTINF:-1 tvg-name="Arena Sport 1 FHD" tvg-id="ArenaSport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1 FHD
 http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 tvg-name="AutoMotorSport FHD" tvg-id="AutoMotorSport.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png" group-title="Sport",AutoMotorSport FHD
-http://78.130.250.2:8023/play/a018/index.m3u8
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="GolfChannel.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/960px-Golf_Channel_Logo.png" group-title="Sport",Golf Channel
-http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 FHD" tvg-id="ArenaSport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2 FHD
+http://185.236.230.212:9981/play/a0bm
+#EXTINF:-1 tvg-name="AutoMotorSport FHD" tvg-id="AutoMotorSport.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Auto_Motor_und_Sport_Channel.svg/revision/latest/scale-to-width-down/640?cb=20191119214837" group-title="Sport",AutoMotorSport FHD
+http://185.236.230.212:9981/play/a0cf
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="GolfChannel.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Golf_Channel_2014.svg/revision/latest/scale-to-width-down/640?cb=20131220201925" group-title="Sport",Golf Channel
+http://185.236.230.212:9982/play/a08b
+#EXTINF:-1 tvg-name="FIGHTBOX FHD" tvg-id="FightBox.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/FightBox_%282013%29.svg/revision/latest/scale-to-width-down/640?cb=20171210175839" group-title="Sport",FIGHTBOX
+http://185.236.230.212:9981/play/a0a4
 
-# iDNES
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Praha na dlani
-https://live.idnes.cz/slow/amc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Vitznau-Rigi ve Švýcarsku
-https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Včelí úl
-https://live.idnes.cz/slow/vcely2_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Království železnic Praha (9 - 19 hodin)
-https://live.idnes.cz/slow/kralovstvizeleznic_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Praha - Smíchov
-https://live.idnes.cz/slow/vytopna_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Kutná Hora hl. n.
-https://live.idnes.cz/slow/kutnahora_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Barrandovský most
-https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Jaroměř
-https://live.idnes.cz/slow/jaromer_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Hroši - ZOO Dvůr Králové nad Labem
-https://live.idnes.cz/slow/hrosi_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Letiště Václava Havla v Praze
-https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Lední medvědi - ZOO Brno
-https://live.idnes.cz/slow/zoobrno_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Krmítko v americkém Ohiu
-https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Poslanecká sněmovna
-https://live.idnes.cz/live/pspcr_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: ČTK
-https://live.idnes.cz/live/ctk1_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 1
-https://live.idnes.cz/live/tvu2_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 2
-https://live.idnes.cz/live/tvu3_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 3
-https://live.idnes.cz/live/tvu4_720p/manifest.m3u8
+# XXX
+#EXTINF:-1 tvg-name="Hustler TV" tvg-id="HustlerTV.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Hustler_TV.svg/revision/latest/scale-to-width-down/640?cb=20210110195701" group-title="XXX",Hustler TV
+http://ua.online24.pm/play/592/6C79C1AAFA64E87/video.m3u8
+#EXTINF:-1 tvg-name="Dorcel FHD" tvg-id="Dorcel.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Dorcel_TV_2022.svg/revision/latest/scale-to-width-down/640?cb=20220306200443" group-title="XXX",Dorcel FHD
+https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
+#EXTINF:-1 tvg-name="Leo TV (22-06)" tvg-id="LeoTv.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Leo_TV.png/revision/latest/scale-to-width-down/640?cb=20250615144031" group-title="XXX",Leo TV (22-06)
+http://185.236.230.212:9982/play/a090
+#EXTINF:-1 tvg-name="Penthouse Gold FHD" tvg-id="PenthouseGold.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Penthouse_Gold.svg/revision/latest/scale-to-width-down/640?cb=20191115143654" group-title="XXX",Penthouse Gold FHD
+http://185.236.230.212:9981/play/a0al
+#EXTINF:-1 tvg-name="Penthouse Reality FHD" tvg-id="PenthouseReality.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Penthouse_TV_2019.svg/revision/latest/scale-to-width-down/640?cb=20230816213254" group-title="XXX",Penthouse Reality FHD
+http://185.236.230.212:9981/play/a0am
+#EXTINF:-1 tvg-name="VIXEN FHD" tvg-id="Vixen.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Vixen.svg/revision/latest/scale-to-width-down/640?cb=20230625221042" group-title="XXX",VIXEN FHD
+http://185.236.230.212:9981/play/a09x
 
 # MUX 21 HEVC
 #EXTINF:-1 tvg-name="ČT1 PHA HD" tvg-id="CT1.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 PHA HD
@@ -309,25 +398,25 @@ http://90.178.86.156:9981/stream/channelid/1634355976?profile=pass
 http://90.178.86.156:9981/stream/channelid/452961149?profile=pass
 # EXTINF:-1 tvg-name="ČT1 SVC HD" tvg-id="CT1SVC.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 SVC HD
 # EXTINF:-1 tvg-name="ČT1 JZC HD" tvg-id="CT1JZC.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 JZC HD
-#EXTINF:-1 tvg-name="" tvg-id="CT1JM.cz" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/CRo_Radiozurnal_logo.png" group-title="MUX 21",CRo RADIOZURNAL
+#EXTINF:-1 tvg-name="CRo RADIOZURNAL" tvg-id="RadioCroRadiozurnal.cz" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/CRo_Radiozurnal_logo.png" group-title="MUX 21",CRo RADIOZURNAL
 http://90.178.86.156:9981/stream/channelid/1112735390?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/CRo_Dvojka_logo.png" group-title="MUX 21",CRo DVOJKA
+#EXTINF:-1 tvg-name="CRo DVOJKA" tvg-id="RadioCroDvojka.cz" logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/CRo_Dvojka_logo.png" group-title="MUX 21",CRo DVOJKA
 http://90.178.86.156:9981/stream/channelid/543492167?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%8CRo%2C_%C4%8Cesk%C3%BD_rozhlas%2C_Vltava%2C_Logo.png" group-title="MUX 21",CRo VLTAVA
+#EXTINF:-1 tvg-name="CRo VLTAVA" tvg-id="RadioCroVltava.cz" logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%8CRo%2C_%C4%8Cesk%C3%BD_rozhlas%2C_Vltava%2C_Logo.png" group-title="MUX 21",CRo VLTAVA
 http://90.178.86.156:9981/stream/channelid/820153843?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CRo_Radio_Wave_logo.png" group-title="MUX 21",CRo RADIO WAVE
+#EXTINF:-1 tvg-name="CRo RADIO WAVE" tvg-id="RadioCroWave.cz" logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CRo_Radio_Wave_logo.png" group-title="MUX 21",CRo RADIO WAVE
 http://90.178.86.156:9981/stream/channelid/1830380137?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/CRo_D-dur_logo.png" group-title="MUX 21",CRo D-DUR
+#EXTINF:-1 tvg-name="CRo D-DUR" tvg-id="RadioCroDdur.cz" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/CRo_D-dur_logo.png" group-title="MUX 21",CRo D-DUR
 http://90.178.86.156:9981/stream/channelid/1939413921?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/CRo_Radio_Junior_logo.png" group-title="MUX 21",CRo RADIO JUNIOR
+#EXTINF:-1 tvg-name="CRo RADIO JUNIOR" tvg-id="RadioCroJunior.cz" logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/CRo_Radio_Junior_logo.png" group-title="MUX 21",CRo RADIO JUNIOR
 http://90.178.86.156:9981/stream/channelid/1227311156?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/CRo_Plus_logo.png" group-title="MUX 21",CRo PLUS
+#EXTINF:-1 tvg-name="CRo PLUS" tvg-id="RadioCroPlus.cz" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/CRo_Plus_logo.png" group-title="MUX 21",CRo PLUS
 http://90.178.86.156:9981/stream/channelid/431292067?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/CRo_Jazz_logo.png" group-title="MUX 21",CRo JAZZ
+#EXTINF:-1 tvg-name="CRo JAZZ" tvg-id="RadioCroJazz.cz" logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/CRo_Jazz_logo.png" group-title="MUX 21",CRo JAZZ
 http://90.178.86.156:9981/stream/channelid/1464642055?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CRo_Radiozurnal_Sport_logo_%281%29.png" group-title="MUX 21",CRo RZ SPORT
+#EXTINF:-1 tvg-name="CRo RZ SPORT" tvg-id="RadioCroSport.cz" logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CRo_Radiozurnal_Sport_logo_%281%29.png" group-title="MUX 21",CRo RZ SPORT
 http://90.178.86.156:9981/stream/channelid/349486138?profile=pass
-#EXTINF:-1 tvg-name="" tvg-id=".cz" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CRo_Pohoda_logo.png/960px-CRo_Pohoda_logo.png" group-title="MUX 21",CRo POHODA
+#EXTINF:-1 tvg-name="CRo POHODA" tvg-id="RadioCroPohoda.cz" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CRo_Pohoda_logo.png/960px-CRo_Pohoda_logo.png" group-title="MUX 21",CRo POHODA
 http://90.178.86.156:9981/stream/channelid/1156007172?profile=pass
 
 # MUX 22 HEVC
@@ -433,101 +522,149 @@ http://90.178.86.156:9981/stream/channelid/187879286?profile=pass
 http://90.178.86.156:9981/stream/channelid/1892725541?profile=pass
 
 # Regionalni CZ
-#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="Regionalni CZ",Elektrika TV
+#EXTINF:-1 tvg-name="Elektrika TV" tvg-id="ElektrikaTV.cz" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="Regionalni CZ",Elektrika TV (360p)
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JC1.cz" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="Regionalni CZ",JČ1 (1080p)
+#EXTINF:-1 tvg-name="JČ1" tvg-id="JC1.cz" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="Regionalni CZ",JČ1 (1080p)
 https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="Regionalni CZ",Jihočeská televize (1080p)
+#EXTINF:-1 tvg-name="Jihočeská televize" tvg-id="Jihoceskatelevize.cz" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="Regionalni CZ",Jihočeská televize (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 tvg-id="KuryrTV.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Regionalni CZ",Kurýr TV
+#EXTINF:-1 tvg-name="Kurýr TV" tvg-id="KuryrTV.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Regionalni CZ",Kurýr TV(1080p)
 https://stream-18.mazana.tv/kuryrtv.m3u8s
-#EXTINF:-1 tvg-id="OIKTV.cz" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="Regionalni CZ",OIK TV (720p)
+#EXTINF:-1 tvg-name="OIK TV" tvg-id="OIKTV.cz" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="Regionalni CZ",OIK TV (720p)
 https://streamer05.low-latency.cz/oiktv/index.m3u8
-#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="Regionalni CZ",Plzeň TV (1080p)
+#EXTINF:-1 tvg-name="Plzeň TV" tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="Regionalni CZ",Plzeň TV (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="PolarTV.cz" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="Regionalni CZ",Polar TV (1080p)
+#EXTINF:-1 tvg-name="Polar TV" tvg-id="PolarTV.cz" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="Regionalni CZ",Polar TV (1080p)
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Polar2.cz" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="Regionalni CZ",Polar2 TV (1080p)
+#EXTINF:-1 tvg-name="Polar2 TV" tvg-id="Polar2.cz" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="Regionalni CZ",Polar2 TV (1080p)
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-# EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="Regionalni CZ",Praha TV (1080p) (TOKEN)
-# https://edge.prahatv.eu/s-tv-praha/channels/live/praha-tvzm85l2hf9y-1-1/praha-tv-1-1-clear.m3u8
-#EXTINF:-1 tvg-id="RTMPlus.cz" tvg-logo="https://i.imgur.com/RNdcP2J.png" group-title="Regionalni CZ",RTM Plus (720p)
+#EXTINF:-1 tvg-name="RTM Plus" tvg-id="RTMPlus.cz" tvg-logo="https://i.imgur.com/RNdcP2J.png" group-title="Regionalni CZ",RTM Plus (720p)
 https://www.rtmplus.cz/live/1-playlist.m3u8
-#EXTINF:-1 tvg-id="RTUstecko.cz" tvg-logo="" group-title="Regionalni CZ",RT Ústecko HD
+#EXTINF:-1 tvg-name="RT Ústecko HD" tvg-id="RTUstecko.cz" tvg-logo="https://w7.pngwing.com/pngs/478/625/png-transparent-regionalni-televize-cz-s-r-o-television-o%C4%8Dko-expres-internet-logo-others-television-angle-text.png" group-title="Regionalni CZ",RT Ústecko HD (1080p)
 https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
-#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="Regionalni CZ",TV Brno 1 (1080p)
+#EXTINF:-1 tvg-name="TV Brno 1" tvg-id="TVBrno1.cz" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="Regionalni CZ",TV Brno 1 (1080p)
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Regionalni CZ",ÚTV (1080p)
+#EXTINF:-1 tvg-name="ÚTV" tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Regionalni CZ",ÚTV (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="Regionalni CZ",Východočeská TV (1080p)
+#EXTINF:-1 tvg-name="Východočeská TV" tvg-id="VychodoceskaTV.cz" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="Regionalni CZ",Východočeská TV (1080p)
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 # Regionalni SK
-# EXTINF:-1 tvg-id="CSRTV.sk" tvg-logo="" group-title="Regionalni SK",CSRTV
-# https://www.youtube.com/watch?v=1fVzTicfyB4
-# EXTINF:-1 tvg-id="KezmarskaTV.sk" tvg-logo="" group-title="Regionalni SK",Kežmarská televízia (1080p) (TOKEN)
-# https://live.kukni.sk:8181/memfs/014dddc5-fe47-4b65-b106-947696cce305.m3u8
-# EXTINF:-1 tvg-id="Kosice.sk" tvg-name="Košice:dnes" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="Regionalni SK",Košice:dnes
-# http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
-# EXTINF:-1 tvg-id="LubovnianskaTV.sk" tvg-logo="https://i.imgur.com/ZgHIdGn.jpg" group-title="Regionalni SK",L'ubovnianska TV (1080p) (TOKEN)
-# https://live.kukni.sk:8181/memfs/e65c8f8a-2eed-4219-99d7-46a6bc915e3c.m3u8
-#EXTINF:-1 tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Regionalni SK",MTR Ruzomberok (1080p)
+#EXTINF:-1 tvg-name="TV7 Prešov" tvg-id="TV7.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV7_2011_Logo.jpg/revision/latest/scale-to-width-down/640" group-title="Regionalni SK",TV7 Prešov (720p)
+https://cdnsk003.panaccess.com/local/TV7/playlist.m3u8
+#EXTINF:-1 tvg-name="MTR Ruzomberok" tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Regionalni SK",MTR Ruzomberok (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
-#EXTINF:-1 tvg-id="TVRaj.sk" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="Regionalni SK",Raj TV (720p)
+#EXTINF:-1 tvg-name="Raj TV" tvg-id="TVRaj.sk" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="Regionalni SK",Raj TV (720p)
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
-# EXTINF:-1 tvg-id="SMT.sk" tvg-logo="" group-title="Regionalni SK",SMT
-# https://www.youtube.com/watch?v=jUxjqVUG-5E
-#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="Regionalni SK",Televízia Močenok (720p)
+#EXTINF:-1 tvg-name="Televízia Močenok" tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="Regionalni SK",Televízia Močenok (720p)
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="Regionalni SK",TV Brezová (540p)
+#EXTINF:-1 tvg-name="TV Brezová" tvg-id="TVBrezova.sk" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="Regionalni SK",TV Brezová (540p)
 https://videostudioris.sk/hls/tvb.m3u8
-#EXTINF:-1 tvg-id="TVCentral.sk" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Regionalni SK",TV Central (540p)
+#EXTINF:-1 tvg-name="TV Central" tvg-id="TVCentral.sk" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Regionalni SK",TV Central (540p)
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
-#EXTINF:-1 tvg-id="TVDK.sk" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="Regionalni SK",TV DK (486p)
+#EXTINF:-1 tvg-name="TV DK" tvg-id="TVDK.sk" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="Regionalni SK",TV DK (486p)
 http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
-#EXTINF:-1 tvg-id="DoktorTV.sk" tvg-logo="" group-title="Regionalni SK",TV DOKTOR (1080p)
+#EXTINF:-1 tvg-name="TV DOKTOR" tvg-id="DoktorTV.sk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkirhR_sc03jo4uwX6AIOzNENW75vGH-DVdA&s" group-title="Regionalni SK",TV DOKTOR (1080p)
 https://live.tvdoktor.sk/high/index.m3u8
-# EXTINF:-1 tvg-id="HronkaTV.sk" tvg-logo="" group-title="Regionalni SK",TV Hronka (TOKEN)
-# https://public.live.rebit.tv/live/a2ae9668-d37e-442d-ae98-070cb5d607a7/main.m3u8
-#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Regionalni SK",TV Liptov (1080p)
+#EXTINF:-1 tvg-name="TV Liptov" tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Regionalni SK",TV Liptov (1080p)
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Regionalni SK",TV LocAll (406p)
+#EXTINF:-1 tvg-name="TV LocAll" tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Regionalni SK",TV LocAll (406p)
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="Regionalni SK",TV Myjava (540p)
+#EXTINF:-1 tvg-name="TV Myjava" tvg-id="TVMyjava.sk" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="Regionalni SK",TV Myjava (540p)
 https://videostudioris.sk/hls/tvm.m3u8
-# EXTINF:-1 tvg-id="TVNitricka.sk" tvg-logo="" group-title="Regionalni SK",TV Nitrička
-# https://www.youtube.com/watch?v=5td__vDlOEY
-#EXTINF:-1 tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="Regionalni SK",TV Nové Zámky (1080p)
+#EXTINF:-1 tvg-name="TV Nové Zámky" tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="Regionalni SK",TV Nové Zámky (1080p)
 https://livestream.lznet.work/hls/nztv-playout/index.m3u8
-# EXTINF:-1 tvg-id="TVPanorama.sk" tvg-logo="" group-title="Regionalni SK",TV Panoráma (1080p) (TOKEN)
-# https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/avc,1080p,aac,128k.m3u8
-# EXTINF:-1 tvg-id="TVPoprad.sk" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="Regionalni SK",TV Poprad (1080p) (TOKEN)
-# https://videoprojekcia.eu:8181/memfs/dd11506d-5911-4b2c-a088-168406e0e22e.m3u8
-#EXTINF:-1 tvg-id="TVPovazie.sk" tvg-name="TV Povazie" tvg-logo="https://i.imgur.com/3cEG19H.jpg" group-title="Regionalni SK",TV Povazie
+#EXTINF:-1 tvg-name="TV Povazie" tvg-id="TVPovazie.sk" tvg-logo="https://i.imgur.com/3cEG19H.jpg" group-title="Regionalni SK",TV Povazie
 http://213.181.128.248:8090/tvpovazie-h264.flv
-#EXTINF:-1 tvg-id="TVReduta.sk" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Regionalni SK",TV Reduta (1080p)
+#EXTINF:-1 tvg-name="TV Reduta" tvg-id="TVReduta.sk" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Regionalni SK",TV Reduta (1080p)
 https://cdnsk003.panaccess.com/local/TV_SNV_REDUTA/index.m3u8
-#EXTINF:-1 tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Regionalni SK",TV Romana (720p)
-http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Regionalni SK",TV Ružinov (1080p)
+#EXTINF:-1 tvg-name="TV Ružinov" tvg-id="TVRuzinov.sk" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Regionalni SK",TV Ružinov (1080p)
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSen.sk" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="Regionalni SK",TV Sen (540p)
+#EXTINF:-1 tvg-name="TV Sen" tvg-id="TVSen.sk" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="Regionalni SK",TV Sen (540p)
 https://videostudioris.sk/hls/tvsen.m3u8
-#EXTINF:-1 tvg-id="TVSeverka.sk" tvg-logo="https://i.imgur.com/oQSee9S.png" group-title="Regionalni SK",TV Severka (576p)
-http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSkalica.sk" tvg-logo="https://i.imgur.com/GB8fMoJ.png" group-title="Regionalni SK",TV Skalica (540p)
+#EXTINF:-1 tvg-name="TV Skalica" tvg-id="TVSkalica.sk" tvg-logo="https://i.imgur.com/GB8fMoJ.png" group-title="Regionalni SK",TV Skalica (540p)
 https://videostudioris.sk/hls/tvs.m3u8
-#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="Regionalni SK",TV Stará Turá (540p)
+#EXTINF:-1 tvg-name="TV Stará Turá" tvg-id="TVStaraTura.sk" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="Regionalni SK",TV Stará Turá (540p)
 https://videostudioris.sk/hls/tvst.m3u8
-#EXTINF:-1 tvg-id="TVVega.sk" tvg-logo="https://i.imgur.com/Qw3NeLA.png" group-title="Regionalni SK",TV Vega (576p)
-http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="TVT.sk" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="Regionalni SK",TV Turzovka (486p)
+#EXTINF:-1 tvg-name="TV Turzovka" tvg-id="TVT.sk" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="Regionalni SK",TV Turzovka (486p)
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
-#EXTINF:-1 tvg-id="VIOTV.sk" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Regionalni SK",VIO TV (480p)
+#EXTINF:-1 tvg-name="VIO TV" tvg-id="VIOTV.sk" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Regionalni SK",VIO TV (480p)
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
-#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="Regionalni SK",Západoslovenská TV (1080p)
+#EXTINF:-1 tvg-name="Západoslovenská TV" tvg-id="ZapadoslovenskaTV.sk" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="Regionalni SK",Západoslovenská TV (1080p)
 https://livestream.lznet.work/hls/zstv-live/index.m3u8
- 
+
+# iDNES
+#EXTINF:-1 tvg-id="iDNES1.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Praha na dlani
+https://live.idnes.cz/slow/amc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="iDNES2.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Vitznau-Rigi ve Švýcarsku
+https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES3.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Včelí úl
+https://live.idnes.cz/slow/vcely2_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES4.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Království železnic Praha (9 až 19 hodin)
+https://live.idnes.cz/slow/kralovstvizeleznic_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES5.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Praha Smíchov
+https://live.idnes.cz/slow/vytopna_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES6.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Kutná Hora hl. n.
+https://live.idnes.cz/slow/kutnahora_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES7.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Barrandovský most
+https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES8.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Jaroměř
+https://live.idnes.cz/slow/jaromer_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES9.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Hroši ZOO Dvůr Králové nad Labem
+https://live.idnes.cz/slow/hrosi_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES10.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Letiště Václava Havla v Praze
+https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES11.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Lední medvědi ZOO Brno
+https://live.idnes.cz/slow/zoobrno_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES12.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Krmítko v americkém Ohiu
+https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES13.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Poslanecká sněmovna
+https://live.idnes.cz/live/pspcr_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES14.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: ČTK
+https://live.idnes.cz/live/ctk1_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES15.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 1
+https://live.idnes.cz/live/tvu2_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES16.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 2
+https://live.idnes.cz/live/tvu3_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES17.cz" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 3
+https://live.idnes.cz/live/tvu4_720p/manifest.m3u8
+
+#Live cam
+#EXTINF:-1 tvg-id="LiveCam1.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Jazero plocha HD
+http://88.212.15.20:16000/udp/232.232.70.1:5004
+#EXTINF:-1 tvg-id="LiveCam2.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Tatry HD
+http://88.212.15.20:16000/udp/232.232.70.2:5004
+#EXTINF:-1 tvg-id="LiveCam3.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Antik Emergency Canal HD
+http://88.212.15.20:16000/udp/232.232.70.3:5004
+#EXTINF:-1 tvg-id="LiveCam4.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Secovska HD
+http://88.212.15.20:16000/udp/232.232.70.4:5004
+#EXTINF:-1 tvg-id="LiveCam5.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Hlinkova HD
+http://88.212.15.20:16000/udp/232.232.70.5:5004
+#EXTINF:-1 tvg-id="LiveCam6.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Amfiteater HD
+http://88.212.15.20:16000/udp/232.232.70.6:5004
+#EXTINF:-1 tvg-id="LiveCam8.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Jazero plocha HD
+http://88.212.15.20:16000/udp/232.232.70.8:5004
+#EXTINF:-1 tvg-id="LiveCam9.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Nizne Kapustniky HD
+http://88.212.15.20:16000/udp/232.232.70.9:5004
+#EXTINF:-1 tvg-id="LiveCam10.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Sturova HD
+http://88.212.15.20:16000/udp/232.232.70.10:5004
+#EXTINF:-1 tvg-id="LiveCam11.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Aupark HD
+http://88.212.15.20:16000/udp/232.232.70.11:5004
+#EXTINF:-1 tvg-id="LiveCam12.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Mier HD
+http://88.212.15.20:16000/udp/232.232.70.12:5004
+#EXTINF:-1 tvg-id="LiveCam13.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Magistrat HD
+http://88.212.15.20:16000/udp/232.232.70.13:5004
+#EXTINF:-1 tvg-id="LiveCam14.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Humenne HD
+http://88.212.15.20:16000/udp/232.232.70.14:5004
+#EXTINF:-1 tvg-id="LiveCam15.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Moldavska HD
+http://88.212.15.20:16000/udp/232.232.70.15:5004
+#EXTINF:-1 tvg-id="LiveCam16.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Kojsova Hola HD
+http://88.212.15.20:16000/udp/232.232.70.16:5004
+#EXTINF:-1 tvg-id="LiveCam20.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Herlianska HD
+http://88.212.15.20:16000/udp/232.232.70.20:5004
+#EXTINF:-1 tvg-id="LiveCam22.cz" tvg-logo="https://png.pngtree.com/png-vector/20240607/ourlarge/pngtree-live-camera-icon-telecast-broadcast-logo-vector-png-image_12536005.png" group-title="Live cam",Banska Stiavnica HD
+http://88.212.15.20:16000/udp/232.232.70.22:5004
+
 # Radio
 #EXTINF:-1 tvg-id="RadioBlackHornet.cz" group-title="Radio",Radio Black Hornet
 http://icecast9.play.cz/bhradio-128.mp3
