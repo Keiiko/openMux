@@ -33,7 +33,7 @@ https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-name="Nova HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nova_CZ_2024.svg/revision/latest/scale-to-width-down/640?cb=20240809183433" tvg-id="Nova.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=Nova
-#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/4/44/Nova_Cinema_2024_logo.svg/revision/latest/scale-to-width-down/640?cb=20241205032949" tvg-id="NovaCinema.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Cinema HD
+#EXTINF:-1 tvg-name="Nova Cinema HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Nova_Cinema_2024_logo.svg/revision/latest/scale-to-width-down/640?cb=20241205032949" tvg-id="NovaCinema.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Cinema HD
 #EXTVLCOPT:http-referrer=https://media.cms.nova.cz/
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaCinema
 #EXTINF:-1 tvg-name="Nova Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Nova_Action_%282021%29.svg/revision/latest/scale-to-width-down/640?cb=20210815110559" tvg-id="NovaAction.cz" group-title="Nova" http-referrer="https://media.cms.nova.cz/",Nova Action HD
@@ -82,11 +82,11 @@ https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaShow
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaNews
 
 # Barrandov
-#EXTINF:-1 tvg-name="TV Barrandov" logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/TV_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002815" tvg-id="BarrandovTV.cz" group-title="Barrandov",TV Barrandov
+#EXTINF:-1 tvg-name="TV Barrandov" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/TV_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002815" tvg-id="TVBarrandov.cz" group-title="Barrandov",TV Barrandov
 http://185.236.230.212:9982/play/a08k
-#EXTINF:-1 tvg-name="Kino Barrandov" logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Kino_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002851" tvg-id="BarrandovKino.cz" group-title="Barrandov",Kino Barrandov
+#EXTINF:-1 tvg-name="Kino Barrandov" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Kino_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002851" tvg-id="KinoBarrandov.cz" group-title="Barrandov",Kino Barrandov
 http://185.236.230.212:9982/play/a08l
-#EXTINF:-1 tvg-name="Barrandov Krimi" logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Krimi_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002918" tvg-id="BarrandovKrimi.cz" group-title="Barrandov",Barrandov Krimi
+#EXTINF:-1 tvg-name="Barrandov Krimi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Krimi_Barrandov_2024.svg/revision/latest/scale-to-width-down/640?cb=20250319002918" tvg-id="BarrandovKrimi.cz" group-title="Barrandov",Barrandov Krimi
 http://185.236.230.212:9982/play/a08m
 
 # STVR
@@ -210,7 +210,7 @@ http://185.236.230.212:9982/play/a095
 http://185.236.230.212:9981/play/a0bg
 #EXTINF:-1 tvg-name="Story4 FHD" tvg-id="Story4.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Story4_%28Hungary%29_%282018%29.svg/revision/latest/scale-to-width-down/640?cb=20200127160919" group-title="Serialove",Story4 FHD
 http://185.236.230.212:9982/play/a08w
-#EXTINF:-1 tvg-name="Paramount Network" tvg-id="ParamountNetwork.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Paramount_Network_Logo_2022.svg/640px-Paramount_Network_Logo_2022.svg.png" group-title="Serialove",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-id="ParamountNetwork.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Paramount_Network_2024.svg/revision/latest?cb=20250311152653" group-title="Serialove",Paramount Network
 http://185.236.230.212:9981/play/a0as
 
 # Dokumentarni
@@ -308,7 +308,7 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=TA3
 #EXTINF:-1 tvg-name="CNN" tvg-id="CNN.int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/640?cb=20250315005934" group-title="Ostatni",CNN
 http://178.23.88.55/CNN/index.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/640?cb=20250315005934" group-title="Ostatni",TV8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_TV_8.png" group-title="Ostatni",TV8
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 
 # Nabozenske
@@ -382,143 +382,143 @@ http://185.236.230.212:9981/play/a0am
 http://185.236.230.212:9981/play/a09x
 
 # MUX 21 HEVC
-#EXTINF:-1 tvg-name="ČT1 PHA HD" tvg-id="CT1.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 PHA HD
+#EXTINF:-1 tvg-name="ČT1 PHA HD" tvg-id="CT1.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 PHA HD
 http://90.178.86.156:9981/stream/channelid/605624177?profile=pass
-#EXTINF:-1 tvg-name="ČT2 HD" tvg-id="CT2.cz" logo="https://i.imgur.com/HpnGC6A.png" group-title="MUX 21",ČT2 HD
+#EXTINF:-1 tvg-name="ČT2 HD" tvg-id="CT2.cz" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="MUX 21",ČT2 HD
 http://90.178.86.156:9981/stream/channelid/713826836?profile=pass
-#EXTINF:-1 tvg-name="ČT24 HD" tvg-id="CT24.cz" logo="https://i.imgur.com/pUMRFs1.png" group-title="MUX 21",ČT24 HD
+#EXTINF:-1 tvg-name="ČT24 HD" tvg-id="CT24.cz" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="MUX 21",ČT24 HD
 http://90.178.86.156:9981/stream/channelid/910989834?profile=pass
-#EXTINF:-1 tvg-name="ČT Sport HD" tvg-id="CTSport.cz" logo="https://i.imgur.com/I2dltZW.png" group-title="MUX 21",ČT Sport HD
+#EXTINF:-1 tvg-name="ČT Sport HD" tvg-id="CTSport.cz" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="MUX 21",ČT Sport HD
 http://90.178.86.156:9981/stream/channelid/2131184355?profile=pass
-#EXTINF:-1 tvg-name="ČT:D/art HD" tvg-id="CTDArt.cz" logo="https://i.imgur.com/Pa5rLpA.png" group-title="MUX 21",ČT:D/art HD
+#EXTINF:-1 tvg-name="ČT:D/art HD" tvg-id="CTDArt.cz" tvg-logo="https://i.imgur.com/Pa5rLpA.png" group-title="MUX 21",ČT:D/art HD
 http://90.178.86.156:9981/stream/channelid/1163683699?profile=pass
-#EXTINF:-1 tvg-name="ČT1 SM HD" tvg-id="CT1SM.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 SM HD
+#EXTINF:-1 tvg-name="ČT1 SM HD" tvg-id="CT1SM.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 SM HD
 http://90.178.86.156:9981/stream/channelid/1634355976?profile=pass
-#EXTINF:-1 tvg-name="ČT1 JM HD" tvg-id="CT1JM.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 JM HD
+#EXTINF:-1 tvg-name="ČT1 JM HD" tvg-id="CT1JM.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 JM HD
 http://90.178.86.156:9981/stream/channelid/452961149?profile=pass
-# EXTINF:-1 tvg-name="ČT1 SVC HD" tvg-id="CT1SVC.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 SVC HD
-# EXTINF:-1 tvg-name="ČT1 JZC HD" tvg-id="CT1JZC.cz" logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 JZC HD
-#EXTINF:-1 tvg-name="CRo RADIOZURNAL" tvg-id="RadioCroRadiozurnal.cz" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/CRo_Radiozurnal_logo.png" group-title="MUX 21",CRo RADIOZURNAL
+# EXTINF:-1 tvg-name="ČT1 SVC HD" tvg-id="CT1SVC.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 SVC HD
+# EXTINF:-1 tvg-name="ČT1 JZC HD" tvg-id="CT1JZC.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="MUX 21",ČT1 JZC HD
+#EXTINF:-1 tvg-name="CRo RADIOZURNAL" tvg-id="RadioCroRadiozurnal.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/CRo_Radiozurnal_logo.png" group-title="MUX 21",CRo RADIOZURNAL
 http://90.178.86.156:9981/stream/channelid/1112735390?profile=pass
-#EXTINF:-1 tvg-name="CRo DVOJKA" tvg-id="RadioCroDvojka.cz" logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/CRo_Dvojka_logo.png" group-title="MUX 21",CRo DVOJKA
+#EXTINF:-1 tvg-name="CRo DVOJKA" tvg-id="RadioCroDvojka.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/CRo_Dvojka_logo.png" group-title="MUX 21",CRo DVOJKA
 http://90.178.86.156:9981/stream/channelid/543492167?profile=pass
-#EXTINF:-1 tvg-name="CRo VLTAVA" tvg-id="RadioCroVltava.cz" logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%8CRo%2C_%C4%8Cesk%C3%BD_rozhlas%2C_Vltava%2C_Logo.png" group-title="MUX 21",CRo VLTAVA
+#EXTINF:-1 tvg-name="CRo VLTAVA" tvg-id="RadioCroVltava.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%8CRo%2C_%C4%8Cesk%C3%BD_rozhlas%2C_Vltava%2C_Logo.png" group-title="MUX 21",CRo VLTAVA
 http://90.178.86.156:9981/stream/channelid/820153843?profile=pass
-#EXTINF:-1 tvg-name="CRo RADIO WAVE" tvg-id="RadioCroWave.cz" logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CRo_Radio_Wave_logo.png" group-title="MUX 21",CRo RADIO WAVE
+#EXTINF:-1 tvg-name="CRo RADIO WAVE" tvg-id="RadioCroWave.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CRo_Radio_Wave_logo.png" group-title="MUX 21",CRo RADIO WAVE
 http://90.178.86.156:9981/stream/channelid/1830380137?profile=pass
-#EXTINF:-1 tvg-name="CRo D-DUR" tvg-id="RadioCroDdur.cz" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/CRo_D-dur_logo.png" group-title="MUX 21",CRo D-DUR
+#EXTINF:-1 tvg-name="CRo D-DUR" tvg-id="RadioCroDdur.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/CRo_D-dur_logo.png" group-title="MUX 21",CRo D-DUR
 http://90.178.86.156:9981/stream/channelid/1939413921?profile=pass
-#EXTINF:-1 tvg-name="CRo RADIO JUNIOR" tvg-id="RadioCroJunior.cz" logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/CRo_Radio_Junior_logo.png" group-title="MUX 21",CRo RADIO JUNIOR
+#EXTINF:-1 tvg-name="CRo RADIO JUNIOR" tvg-id="RadioCroJunior.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/CRo_Radio_Junior_logo.png" group-title="MUX 21",CRo RADIO JUNIOR
 http://90.178.86.156:9981/stream/channelid/1227311156?profile=pass
-#EXTINF:-1 tvg-name="CRo PLUS" tvg-id="RadioCroPlus.cz" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/CRo_Plus_logo.png" group-title="MUX 21",CRo PLUS
+#EXTINF:-1 tvg-name="CRo PLUS" tvg-id="RadioCroPlus.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/CRo_Plus_logo.png" group-title="MUX 21",CRo PLUS
 http://90.178.86.156:9981/stream/channelid/431292067?profile=pass
-#EXTINF:-1 tvg-name="CRo JAZZ" tvg-id="RadioCroJazz.cz" logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/CRo_Jazz_logo.png" group-title="MUX 21",CRo JAZZ
+#EXTINF:-1 tvg-name="CRo JAZZ" tvg-id="RadioCroJazz.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/CRo_Jazz_logo.png" group-title="MUX 21",CRo JAZZ
 http://90.178.86.156:9981/stream/channelid/1464642055?profile=pass
-#EXTINF:-1 tvg-name="CRo RZ SPORT" tvg-id="RadioCroSport.cz" logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CRo_Radiozurnal_Sport_logo_%281%29.png" group-title="MUX 21",CRo RZ SPORT
+#EXTINF:-1 tvg-name="CRo RZ SPORT" tvg-id="RadioCroSport.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CRo_Radiozurnal_Sport_logo_%281%29.png" group-title="MUX 21",CRo RZ SPORT
 http://90.178.86.156:9981/stream/channelid/349486138?profile=pass
-#EXTINF:-1 tvg-name="CRo POHODA" tvg-id="RadioCroPohoda.cz" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CRo_Pohoda_logo.png/960px-CRo_Pohoda_logo.png" group-title="MUX 21",CRo POHODA
+#EXTINF:-1 tvg-name="CRo POHODA" tvg-id="RadioCroPohoda.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CRo_Pohoda_logo.png/960px-CRo_Pohoda_logo.png" group-title="MUX 21",CRo POHODA
 http://90.178.86.156:9981/stream/channelid/1156007172?profile=pass
 
 # MUX 22 HEVC
-#EXTINF:-1 tvg-name="Prima" logo="https://i.imgur.com/0aHT2Nj.png" tvg-id="Prima.cz" group-title="MUX 22",Prima
+#EXTINF:-1 tvg-name="Prima" tvg-logo="https://i.imgur.com/0aHT2Nj.png" tvg-id="Prima.cz" group-title="MUX 22",Prima
 http://90.178.86.156:9981/stream/channelid/1669214446?profile=pass
-#EXTINF:-1 tvg-name="Prima +1" logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Prima_%25_2B1.png" tvg-id="PrimaPlus1.cz" group-title="MUX 22",Prima +1
+#EXTINF:-1 tvg-name="Prima +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Prima_%25_2B1.png" tvg-id="PrimaPlus1.cz" group-title="MUX 22",Prima +1
 http://90.178.86.156:9981/stream/channelid/909775035?profile=pass
-#EXTINF:-1 tvg-name="Prima COOL" logo="https://i.imgur.com/JMHWmcJ.png" tvg-id="PrimaCool.cz" group-title="MUX 22",Prima COOL
+#EXTINF:-1 tvg-name="Prima COOL" tvg-logo="https://i.imgur.com/JMHWmcJ.png" tvg-id="PrimaCool.cz" group-title="MUX 22",Prima COOL
 http://90.178.86.156:9981/stream/channelid/2060674324?profile=pass
-#EXTINF:-1 tvg-name="Prima MAX" logo="https://i.imgur.com/QaEakvm.png" tvg-id="PrimaMax.cz" group-title="MUX 22",Prima MAX
+#EXTINF:-1 tvg-name="Prima MAX" tvg-logo="https://i.imgur.com/QaEakvm.png" tvg-id="PrimaMax.cz" group-title="MUX 22",Prima MAX
 http://90.178.86.156:9981/stream/channelid/235177134?profile=pass
-#EXTINF:-1 tvg-name="Prima ZOOM" logo="https://i.imgur.com/zuzBucZ.png" tvg-id="PrimaZoom.cz" group-title="MUX 22",Prima ZOOM
+#EXTINF:-1 tvg-name="Prima ZOOM" tvg-logo="https://i.imgur.com/zuzBucZ.png" tvg-id="PrimaZoom.cz" group-title="MUX 22",Prima ZOOM
 http://90.178.86.156:9981/stream/channelid/546933888?profile=pass
-#EXTINF:-1 tvg-name="Prima love" logo="https://i.imgur.com/TOCZc3Y.png" tvg-id="PrimaLove.cz" group-title="MUX 22",Prima love
+#EXTINF:-1 tvg-name="Prima love" tvg-logo="https://i.imgur.com/TOCZc3Y.png" tvg-id="PrimaLove.cz" group-title="MUX 22",Prima love
 http://90.178.86.156:9981/stream/channelid/737753444?profile=pass
-#EXTINF:-1 tvg-name="Prima Krimi" logo="https://i.imgur.com/Dn2YxrA.png" tvg-id="PrimaKrimi.cz" group-title="MUX 22",Prima KRIMI
+#EXTINF:-1 tvg-name="Prima Krimi" tvg-logo="https://i.imgur.com/Dn2YxrA.png" tvg-id="PrimaKrimi.cz" group-title="MUX 22",Prima KRIMI
 http://90.178.86.156:9981/stream/channelid/434374074?profile=pass
-#EXTINF:-1 tvg-name="Prima STAR" logo="https://i.imgur.com/tQGwvNs.png" tvg-id="PrimaStar.cz" group-title="MUX 22",Prima STAR
+#EXTINF:-1 tvg-name="Prima STAR" tvg-logo="https://i.imgur.com/tQGwvNs.png" tvg-id="PrimaStar.cz" group-title="MUX 22",Prima STAR
 http://90.178.86.156:9981/stream/channelid/1590380750?profile=pass
-#EXTINF:-1 tvg-name="Prima Show" logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" group-title="MUX 22",Prima SHOW
+#EXTINF:-1 tvg-name="Prima Show" tvg-logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" group-title="MUX 22",Prima SHOW
 http://90.178.86.156:9981/stream/channelid/748255433?profile=pass
-#EXTINF:-1 tvg-name="CNN Prima News" logo="https://i.imgur.com/Il7t0bU.png" tvg-id="CNNPrimaNews.cz" group-title="MUX 22",CNN Prima News
+#EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="https://i.imgur.com/Il7t0bU.png" tvg-id="CNNPrimaNews.cz" group-title="MUX 22",CNN Prima News
 http://90.178.86.156:9981/stream/channelid/1443888704?profile=pass
-#EXTINF:-1 tvg-name="Ocko" logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" group-title="MUX 22",Ocko
+#EXTINF:-1 tvg-name="Ocko" tvg-logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" group-title="MUX 22",Ocko
 http://90.178.86.156:9981/stream/channelid/1183792288?profile=pass
-#EXTINF:-1 tvg-name="Ocko STAR" logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" group-title="MUX 22",Ocko STAR
+#EXTINF:-1 tvg-name="Ocko STAR" tvg-logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" group-title="MUX 22",Ocko STAR
 http://90.178.86.156:9981/stream/channelid/1340646702?profile=pass
-#EXTINF:-1 tvg-name="Retro Music TV" logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="MUX 22",Retro Music TV
+#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="MUX 22",Retro Music TV
 http://90.178.86.156:9981/stream/channelid/286132667?profile=pass
-#EXTINF:-1 tvg-name="Naladte se na digitalni vysilani CRA" logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/CRA-new-white.png" tvg-id="CRA.cz" group-title="MUX 22",Naladte se na digitalni vysilani CRA
+#EXTINF:-1 tvg-name="Naladte se na digitalni vysilani CRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/CRA-new-white.png" tvg-id="CRA.cz" group-title="MUX 22",Naladte se na digitalni vysilani CRA
 http://90.178.86.156:9981/stream/channelid/1760121847?profile=pass
-#EXTINF:-1 tvg-name="RADIO PROGLAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Proglas_logo.svg/640px-Proglas_logo.svg.png" tvg-id="RadioProglas.cz" group-title="MUX 22",RADIO PROGLAS
+#EXTINF:-1 tvg-name="RADIO PROGLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Proglas_logo.svg/640px-Proglas_logo.svg.png" tvg-id="RadioProglas.cz" group-title="MUX 22",RADIO PROGLAS
 http://90.178.86.156:9981/stream/channelid/2093422258?profile=pass
 
 # MUX 23 HEVC
-#EXTINF:-1 tvg-name="NOVA" logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="MUX 23",NOVA
+#EXTINF:-1 tvg-name="NOVA" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="MUX 23",NOVA
 http://90.178.86.156:9981/stream/channelid/2008328081?profile=pass
-#EXTINF:-1 tvg-name="Nova Cinema" logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" tvg-id="NovaCinema.cz" group-title="MUX 23",Nova Cinema
+#EXTINF:-1 tvg-name="Nova Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" tvg-id="NovaCinema.cz" group-title="MUX 23",Nova Cinema
 http://90.178.86.156:9981/stream/channelid/1887116841?profile=pass
-#EXTINF:-1 tvg-name="TV Barrandov" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TV_Barrandov_logo_2025.png/960px-TV_Barrandov_logo_2025.png" tvg-id="BarrandovTV.cz" group-title="MUX 23",TV Barrandov
+#EXTINF:-1 tvg-name="TV Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TV_Barrandov_logo_2025.png/960px-TV_Barrandov_logo_2025.png" tvg-id="BarrandovTV.cz" group-title="MUX 23",TV Barrandov
 http://90.178.86.156:9981/stream/channelid/1149773228?profile=pass
-#EXTINF:-1 tvg-name="Kino Barrandov" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kino_Barrandov_logo_2025.png/960px-Kino_Barrandov_logo_2025.png" tvg-id="KinoBarrandov.cz" group-title="MUX 23",Kino Barrandov
+#EXTINF:-1 tvg-name="Kino Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kino_Barrandov_logo_2025.png/960px-Kino_Barrandov_logo_2025.png" tvg-id="KinoBarrandov.cz" group-title="MUX 23",Kino Barrandov
 http://90.178.86.156:9981/stream/channelid/468144232?profile=pass
-#EXTINF:-1 tvg-name="Barrandov Krimi" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Krimi_Barrandov_logo_2025.png/960px-Krimi_Barrandov_logo_2025.png" tvg-id="BarrandovKrimi.cz" group-title="MUX 23",Barrandov Krimi
+#EXTINF:-1 tvg-name="Barrandov Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Krimi_Barrandov_logo_2025.png/960px-Krimi_Barrandov_logo_2025.png" tvg-id="BarrandovKrimi.cz" group-title="MUX 23",Barrandov Krimi
 http://90.178.86.156:9981/stream/channelid/63674077?profile=pass
-#EXTINF:-1 tvg-name="Seznam.cz TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Televize_Seznam.png/960px-Logo_Televize_Seznam.png" tvg-id="Seznam.cz" group-title="MUX 23",Seznam.cz TV
+#EXTINF:-1 tvg-name="Seznam.cz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Televize_Seznam.png/960px-Logo_Televize_Seznam.png" tvg-id="Seznam.cz" group-title="MUX 23",Seznam.cz TV
 http://90.178.86.156:9981/stream/channelid/727402331?profile=pass
-# EXTINF:-1 tvg-name="Warner TV" logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Warner_TV_Poland_Logo.png" tvg-id="Warner TV.cz" group-title="MUX 23",Warner TV
-# EXTINF:-1 tvg-name="Spektrum home" logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Spektrum_Home_log%C3%B3ja_%282020%29.jpg" tvg-id="SpektrumHome.cz" group-title="MUX 23",Spektrum home
-# EXTINF:-1 tvg-name="A11" logo="" tvg-id="A11.cz" group-title="MUX 23",A11
-# EXTINF:-1 tvg-name="DVTV Extra" logo="" tvg-id="DVTVExtra.cz" group-title="MUX 23",DVTV Extra
-# EXTINF:-1 tvg-name="Sporty TV" logo="" tvg-id="SportyTV.cz" group-title="MUX 23",Sporty TV
-#EXTINF:-1 tvg-name="Tv NOE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/512px-Noe-logo-2016.png" tvg-id="TvNoe.cz" group-title="MUX 23",Tv NOE
+# EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Warner_TV_Poland_Logo.png" tvg-id="Warner TV.cz" group-title="MUX 23",Warner TV
+# EXTINF:-1 tvg-name="Spektrum home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Spektrum_Home_log%C3%B3ja_%282020%29.jpg" tvg-id="SpektrumHome.cz" group-title="MUX 23",Spektrum home
+# EXTINF:-1 tvg-name="A11" tvg-logo="" tvg-id="A11.cz" group-title="MUX 23",A11
+# EXTINF:-1 tvg-name="DVTV Extra" tvg-logo="" tvg-id="DVTVExtra.cz" group-title="MUX 23",DVTV Extra
+# EXTINF:-1 tvg-name="Sporty TV" tvg-logo="" tvg-id="SportyTV.cz" group-title="MUX 23",Sporty TV
+#EXTINF:-1 tvg-name="Tv NOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/512px-Noe-logo-2016.png" tvg-id="TvNoe.cz" group-title="MUX 23",Tv NOE
 http://90.178.86.156:9981/stream/channelid/1183373217?profile=pass
-# EXTINF:-1 tvg-name="Hit TV" logo="" tvg-id="HitTV.cz" group-title="MUX 23",Hit TV 
-# EXTINF:-1 tvg-name="Test-1" logo="" tvg-id="Test1.cz" group-title="MUX 23",Test-1
-# EXTINF:-1 tvg-name="Test-2" logo="" tvg-id="Test2.cz" group-title="MUX 23",Test-2
-# EXTINF:-1 tvg-name="Rádio Impuls" logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/R%C3%A1dio_Impuls.png" tvg-id="RadioImpuls.cz" group-title="MUX 23",Rádio Impuls
-#EXTINF:-1 tvg-name="Cesky Impuls" logo="https://upload.wikimedia.org/wikipedia/commons/2/23/%C4%8Cesk%C3%BD_Impuls.png" tvg-id="RadioCeskyImpuls.cz" group-title="MUX 23",Cesky Impuls
+# EXTINF:-1 tvg-name="Hit TV" tvg-logo="" tvg-id="HitTV.cz" group-title="MUX 23",Hit TV 
+# EXTINF:-1 tvg-name="Test-1" tvg-logo="" tvg-id="Test1.cz" group-title="MUX 23",Test-1
+# EXTINF:-1 tvg-name="Test-2" tvg-logo="" tvg-id="Test2.cz" group-title="MUX 23",Test-2
+# EXTINF:-1 tvg-name="Rádio Impuls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/R%C3%A1dio_Impuls.png" tvg-id="RadioImpuls.cz" group-title="MUX 23",Rádio Impuls
+#EXTINF:-1 tvg-name="Cesky Impuls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/%C4%8Cesk%C3%BD_Impuls.png" tvg-id="RadioCeskyImpuls.cz" group-title="MUX 23",Cesky Impuls
 http://90.178.86.156:9981/stream/channelid/462628318?profile=pass
-# EXTINF:-1 tvg-name="Rock Zone 105,9" logo="" tvg-id="RadioRockZone.cz" group-title="MUX 23",Rock Zone 105.9
-#EXTINF:-1 tvg-name="Radio Dechovka" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_Radia_Dechovka_s_kmito%C4%8Dty.png/960px-Logo_Radia_Dechovka_s_kmito%C4%8Dty.png" tvg-id="RadioDechovka.cz" group-title="MUX 23",Radio Dechovka
+# EXTINF:-1 tvg-name="Rock Zone 105,9" tvg-logo="" tvg-id="RadioRockZone.cz" group-title="MUX 23",Rock Zone 105.9
+#EXTINF:-1 tvg-name="Radio Dechovka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_Radia_Dechovka_s_kmito%C4%8Dty.png/960px-Logo_Radia_Dechovka_s_kmito%C4%8Dty.png" tvg-id="RadioDechovka.cz" group-title="MUX 23",Radio Dechovka
 http://90.178.86.156:9981/stream/channelid/1273474159?profile=pass
-# EXTINF:-1 tvg-name="UKRAJINSKE RADIO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ukrainske_Radio_%282022%29.svg/640px-Ukrainske_Radio_%282022%29.svg.png" tvg-id="RadioUkrajinske.cz" group-title="MUX 23",UKRAJINSKE RADIO
+# EXTINF:-1 tvg-name="UKRAJINSKE RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ukrainske_Radio_%282022%29.svg/640px-Ukrainske_Radio_%282022%29.svg.png" tvg-id="RadioUkrajinske.cz" group-title="MUX 23",UKRAJINSKE RADIO
 
 # MUX 24 HEVC
-#EXTINF:-1 tvg-name="Nova" logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="MUX 24",Nova
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="Nova.cz" group-title="MUX 24",Nova
 http://90.178.86.156:9981/stream/channelid/151439389?profile=pass
-#EXTINF:-1 tvg-name="NovaAction" logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" tvg-id="NovaAction.cz" group-title="MUX 24",Nova Action
+#EXTINF:-1 tvg-name="NovaAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" tvg-id="NovaAction.cz" group-title="MUX 24",Nova Action
 http://90.178.86.156:9981/stream/channelid/74203489?profile=pass
-#EXTINF:-1 tvg-name="NovaFun" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" tvg-id="NovaFun.cz" group-title="MUX 24",Nova Fun
+#EXTINF:-1 tvg-name="NovaFun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" tvg-id="NovaFun.cz" group-title="MUX 24",Nova Fun
 http://90.178.86.156:9981/stream/channelid/149509414?profile=pass
-#EXTINF:-1 tvg-name="NovaLady" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/640px-Logo_Nova_Lady_2021.png" tvg-id="NovaLady.cz" group-title="MUX 24",Nova Lady
+#EXTINF:-1 tvg-name="NovaLady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/640px-Logo_Nova_Lady_2021.png" tvg-id="NovaLady.cz" group-title="MUX 24",Nova Lady
 http://90.178.86.156:9981/stream/channelid/1621845797?profile=pass
-#EXTINF:-1 tvg-name="NovaGold" logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" tvg-id="NovaGold.cz" group-title="MUX 24",Nova Gold
+#EXTINF:-1 tvg-name="NovaGold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" tvg-id="NovaGold.cz" group-title="MUX 24",Nova Gold
 http://90.178.86.156:9981/stream/channelid/931381864?profile=pass
-#EXTINF:-1 tvg-name="Paramount Network" logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paramount_Network_wordmark_%28Blue%29.png" tvg-id="ParamountNetwork.cz" group-title="MUX 24",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paramount_Network_wordmark_%28Blue%29.png" tvg-id="ParamountNetwork.cz" group-title="MUX 24",Paramount Network
 http://90.178.86.156:9981/stream/channelid/1963571459?profile=pass
-#EXTINF:-1 tvg-name="CS Mystery" logo="https://i.imgur.com/3cFbkUj.png" tvg-id="CSMystery.cz" group-title="MUX 24",CS Mystery
+#EXTINF:-1 tvg-name="CS Mystery" tvg-logo="https://i.imgur.com/3cFbkUj.png" tvg-id="CSMystery.cz" group-title="MUX 24",CS Mystery
 http://90.178.86.156:9981/stream/channelid/755795261?profile=pass
-#EXTINF:-1 tvg-name="JOJ Family" logo="https://i.imgur.com/k1COMHi.png" tvg-id="JOJFamily.cz" group-title="MUX 24",JOJ Family
+#EXTINF:-1 tvg-name="JOJ Family" tvg-logo="https://i.imgur.com/k1COMHi.png" tvg-id="JOJFamily.cz" group-title="MUX 24",JOJ Family
 http://90.178.86.156:9981/stream/channelid/1138027461?profile=pass
-#EXTINF:-1 tvg-name="RELAX" logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Relax_logo.png" tvg-id="Relax.cz" group-title="MUX 24",RELAX
+#EXTINF:-1 tvg-name="RELAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Relax_logo.png" tvg-id="Relax.cz" group-title="MUX 24",RELAX
 http://90.178.86.156:9981/stream/channelid/258289129?profile=pass
-#EXTINF:-1 tvg-name="REBEL" logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rebel_TV_logo.png" tvg-id="Rebel.cz" group-title="MUX 24",REBEL
+#EXTINF:-1 tvg-name="REBEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rebel_TV_logo.png" tvg-id="Rebel.cz" group-title="MUX 24",REBEL
 http://90.178.86.156:9981/stream/channelid/1427960493?profile=pass
-#EXTINF:-1 tvg-name="Slager original" logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/slager-1.png" tvg-id="SlagerOriginal.cz" group-title="MUX 24",Slager original
+#EXTINF:-1 tvg-name="Slager original" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/slager-1.png" tvg-id="SlagerOriginal.cz" group-title="MUX 24",Slager original
 http://90.178.86.156:9981/stream/channelid/923865072?profile=pass
-# EXTINF:-1 tvg-name="Slager Muzika" logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/slager-2.png" tvg-id="SlagerMuzika.cz" group-title="MUX 23",Slager Muzika
-# EXTINF:-1 tvg-name="Slager Premium" logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/Premium-logo-korunka.png" tvg-id="SlagerPremium.cz" group-title="MUX 23",Slager Premium
-# EXTINF:-1 tvg-name="OK TV" logo="" tvg-id="OKTV.cz" group-title="MUX 23",OK TV
-# EXTINF:-1 tvg-name="DB Test 1" logo="" tvg-id="DBTest1.cz" group-title="MUX 23",DB Test 1
-# EXTINF:-1 tvg-name="DB Test 2" logo="" tvg-id="DBTest2.cz" group-title="MUX 23",DB Test 2
-#EXTINF:-1 tvg-name="ABC TV" tvg-id="ABC.cz" logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Abctv.png" group-title="MUX 24",ABC TV
+# EXTINF:-1 tvg-name="Slager Muzika" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/slager-2.png" tvg-id="SlagerMuzika.cz" group-title="MUX 23",Slager Muzika
+# EXTINF:-1 tvg-name="Slager Premium" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/Premium-logo-korunka.png" tvg-id="SlagerPremium.cz" group-title="MUX 23",Slager Premium
+# EXTINF:-1 tvg-name="OK TV" tvg-logo="" tvg-id="OKTV.cz" group-title="MUX 23",OK TV
+# EXTINF:-1 tvg-name="DB Test 1" tvg-logo="" tvg-id="DBTest1.cz" group-title="MUX 23",DB Test 1
+# EXTINF:-1 tvg-name="DB Test 2" tvg-logo="" tvg-id="DBTest2.cz" group-title="MUX 23",DB Test 2
+#EXTINF:-1 tvg-name="ABC TV" tvg-id="ABC.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Abctv.png" group-title="MUX 24",ABC TV
 http://90.178.86.156:9981/stream/channelid/1380287042?profile=pass
-#EXTINF:-1 tvg-name="Praha TV" tvg-id="PrahaTV.cz" logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/PrahaTV-logo.png" group-title="MUX 24",Praha TV
+#EXTINF:-1 tvg-name="Praha TV" tvg-id="PrahaTV.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/PrahaTV-logo.png" group-title="MUX 24",Praha TV
 http://90.178.86.156:9981/stream/channelid/356678423?profile=pass
-#EXTINF:-1 tvg-name="Televize pres antenu" tvg-id="TelevizePresAntenu.cz" logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Tvpresanetnu.png" group-title="MUX 24",Televize pres antenu
+#EXTINF:-1 tvg-name="Televize pres antenu" tvg-id="TelevizePresAntenu.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Tvpresanetnu.png" group-title="MUX 24",Televize pres antenu
 http://90.178.86.156:9981/stream/channelid/1251773239?profile=pass
-#EXTINF:-1 tvg-name="Radio Cas" logo="https://media-club.tv/wp-content/uploads/2025/01/CAS-barevne-pruhledne.png" tvg-id="RadioCas.cz" group-title="MUX 24",Radio Cas
+#EXTINF:-1 tvg-name="Radio Cas" tvg-logo="https://media-club.tv/wp-content/uploads/2025/01/CAS-barevne-pruhledne.png" tvg-id="RadioCas.cz" group-title="MUX 24",Radio Cas
 http://90.178.86.156:9981/stream/channelid/187879286?profile=pass
-#EXTINF:-1 tvg-name="Radio Cas Rock" logo="https://media-club.tv/wp-content/uploads/2025/01/CAS-ROCK-cerne.png" tvg-id="RadioCasRock.cz" group-title="MUX 24",Radio Cas Rock
+#EXTINF:-1 tvg-name="Radio Cas Rock" tvg-logo="https://media-club.tv/wp-content/uploads/2025/01/CAS-ROCK-cerne.png" tvg-id="RadioCasRock.cz" group-title="MUX 24",Radio Cas Rock
 http://90.178.86.156:9981/stream/channelid/1892725541?profile=pass
 
 # Regionalni CZ
