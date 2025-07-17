@@ -338,12 +338,14 @@ http://185.236.230.212:9981/play/a0au
 http://185.236.230.212:9981/play/a0av
 #EXTINF:-1 tvg-name="Nova Sport 5 CZ FHD" tvg-id="NovaSport5.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_5.png" group-title="Sport",Nova Sport 5 CZ FHD
 http://185.236.230.212:9981/play/a0bq
-#EXTINF:-1 tvg-name="Nova Sport 5 SK FHD" tvg-id="NovaSport5.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_5.png" group-title="Sport",Nova Sport 5 SK FHD
+#EXTINF:-1 tvg-name="Nova Sport 5 SK FHD" tvg-id="NovaSport5.sk" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_5.png" group-title="Sport",Nova Sport 5 SK FHD
 http://185.236.230.212:9982/play/a09w
 #EXTINF:-1 tvg-name="Nova Sport 6 FHD" tvg-id="NovaSport6.cz" tvg-logo="https://www.o2tvsport.cz/assets/front/img/channels/ns_6.png" group-title="Sport",Nova Sport 6 FHD
 http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 #EXTINF:-1 tvg-name="Sport 1 FHD" tvg-id="Sport1.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Sport1_CEE_%282020-present%29.svg/revision/latest/scale-to-width-down/640?cb=20201006083547" group-title="Sport",Sport 1 FHD
 http://185.236.230.212:9981/play/a0cg
+#EXTINF:-1 tvg-name="Sport 2 FHD" tvg-id="Sport2.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Sport2_CEE_%282020-present%29.svg/revision/latest/scale-to-width-down/640?cb=20201006083639" group-title="Sport",Sport 2 FHD
+http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5496&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
 #EXTINF:-1 tvg-name="CANAL+ Sport FHD" tvg-id="CanalPlusSport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport FHD
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 2 FHD" tvg-id="CanalPlusSport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="Sport",CANAL+ Sport 2 FHD
